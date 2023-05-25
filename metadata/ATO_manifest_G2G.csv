@@ -1,9 +1,0 @@
-﻿Fiaj,Kolf,MS5hDLL4,human_cell_batch,iPSC passage,ATO_day,ATO_wk,Date_of_sample,FACS_sort,10x_kit,sanger_sample_ID,sequence_name,CITE_name
-Y,Y,Y,souporcell_Fiaj_Kolf,P21,-14,-2,28/01/2020,unsorted_sorted,5' v1.0,T01_D-14,6180STDY8814872,6180STDY8814874
-Y,N,Y,souporcell_Fiaj_Kolf,P21,-7,-1,04/02/2020,unsorted,5' v1.0,T01_D-7,6180STDY8814873,
-Y,Y,N,souporcell_Fiaj_Kolf,P23,7,1,26/08/2020,mouseCD29neg,5' v1.0,TO3 KOLF_FIAJ D7,6180STDY9448806,6180STDY9448807
-Y,Y,N,souporcell_Fiaj_Kolf,P23,20,3,08/09/2020,mouseCD29neg_CD45pos,5' v1.0,TO4 KOLF_FIAJ wk3,6180STDY9448808,6180STDY9448810
-Y,Y,Y,souporcell_Fiaj_Kolf,P23,37,5,25/09/2020,live,5' v1.0,T05 KOLF_FIAJ wk5,6180STDY9448811,
-Y,Y,Y,souporcell_Fiaj_Kolf,P23,50,7,08/10/2020,live,5' v1.0,T06 KOLF_FIAJ wk7,6180STDY9448813,6180STDY9448815
-Y,Y,N,souporcell_Fiaj_Kolf,P25,-7,-1,26/04/2021,mouse CD29neg,5' v1.0,T09_Kolf_Fiaj_ATO_WT_D-7,6180STDY10267835,
-Y,Y,N,souporcell_Fiaj_Kolf,P25,0,0,04/05/2021,mouse CD29neg,5' v1.0,T10_Kolf_Fiaj_ATO_WT_D0,6180STDY10267836,
