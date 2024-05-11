@@ -1,0 +1,71 @@
+MGI Gene/Marker ID,Symbol,Name,Chr,Qualifier,Annotated Term,Context,Proteoform,Evidence,Inferred From,Reference(s)
+MGI:893592,Ager,advanced glycosylation end product-specific receptor,17,,positive regulation of p38MAPK cascade,,,ISO,Q15109 ,J:164563 
+MGI:893592,Ager,advanced glycosylation end product-specific receptor,17,,regulation of p38MAPK cascade,,,IBA,PTN000239960 ,J:265628 
+MGI:893592,Ager,advanced glycosylation end product-specific receptor,17,,regulation of p38MAPK cascade,"happens in entorhinal cortex,regulates a function/process that happens in entorhinal cortex,regulates long-term synaptic potentiation,regulates a function/process that happens in cerebral cortex neuron,is a part of cellular response to amyloid-beta",,IGI,CPX-1134 ,J:248440 
+MGI:109349,Atf2,activating transcription factor 2,2,,p38MAPK cascade,,,IGI,MGI:2443472 ,J:123909 
+MGI:109349,Atf2,activating transcription factor 2,2,,p38MAPK cascade,,,IMP,MGI:3720850 ,J:172398 
+MGI:109349,Atf2,activating transcription factor 2,2,,p38MAPK cascade,is a part of gene expression,,IMP,MGI:3842320 ,J:156376 
+MGI:2443472,Atf7,activating transcription factor 7,15,,p38MAPK cascade,,,IGI,MGI:109349 ,J:123909 
+MGI:88177,Bmp2,bone morphogenetic protein 2,2,,positive regulation of p38MAPK cascade,,,ISO,P12643 ,J:164563 
+MGI:88180,Bmp4,bone morphogenetic protein 4,14,,positive regulation of p38MAPK cascade,,,ISO,P12644 ,J:164563 
+MGI:107570,Cav3,caveolin 3,6,,regulation of p38MAPK cascade,,,IMP,,J:170588 
+MGI:106185,Ccr2,C-C motif chemokine receptor 2,9,,positive regulation of p38MAPK cascade,,,ISO,RGD:620876 ,J:155856 
+MGI:1921506,Cyld,CYLD lysine 63 deubiquitinase,8,,negative regulation of p38MAPK cascade,,,IDA,,J:262344 
+MGI:1921506,Cyld,CYLD lysine 63 deubiquitinase,8,,negative regulation of p38MAPK cascade,,,ISO,Q9NQC7 ,J:164563 
+MGI:1916851,Dab2ip,disabled 2 interacting protein,2,,regulation of p38MAPK cascade,,,IMP,,J:159941 
+MGI:107231,Dlg1,discs large MAGUK scaffold protein 1,16,,negative regulation of p38MAPK cascade,,,ISO,Q12959 ,J:164563 
+MGI:105120,Dusp1,dual specificity phosphatase 1,17,,negative regulation of p38MAPK cascade,,,IBA,PTN002562870 ,J:265628 
+MGI:105120,Dusp1,dual specificity phosphatase 1,17,,negative regulation of p38MAPK cascade,,,ISO,P28562 ,J:164563 
+MGI:1927070,Dusp10,dual specificity phosphatase 10,1,,negative regulation of p38MAPK cascade,,,ISO,Q9Y6W6 ,J:164563 
+MGI:98931,Ezr,ezrin,17,,negative regulation of p38MAPK cascade,,,ISO,P15311 ,J:164563 
+MGI:95524,Fgfr3,fibroblast growth factor receptor 3,5,,p38MAPK cascade,,,IMP,MGI:2135670 ,J:157951 
+MGI:107799,Gadd45a,growth arrest and DNA-damage-inducible 45 alpha,6,,positive regulation of p38MAPK cascade,,,ISO,P24522 ,J:164563 
+MGI:107776,Gadd45b,growth arrest and DNA-damage-inducible 45 beta,10,,positive regulation of p38MAPK cascade,,,ISO,O75293 ,J:164563 
+MGI:1346325,Gadd45g,growth arrest and DNA-damage-inducible 45 gamma,13,,positive regulation of p38MAPK cascade,,,ISO,O95257 ,J:164563 
+MGI:95689,Gdf6,growth differentiation factor 6,4,,positive regulation of p38MAPK cascade,,,IMP,,J:229306 
+MGI:95851,Gsn,gelsolin,2,,positive regulation of p38MAPK cascade,,,ISO,RGD:1303089 ,J:155856 
+MGI:103580,Hand2,heart and neural crest derivatives expressed 2,8,,positive regulation of p38MAPK cascade,,,ISO,P61296 ,J:164563 
+MGI:96079,Hgf,hepatocyte growth factor,5,,regulation of p38MAPK cascade,,,IDA,,J:204089 
+MGI:105053,Hsph1,heat shock 105kDa/110kDa protein 1,5,,negative regulation of p38MAPK cascade,,PR:Q61699-2PR:Q61699-1,IGI,MGI:1346865 ,J:143134 
+MGI:96543,Il1b,interleukin 1 beta,2,,positive regulation of p38MAPK cascade,"happens in entorhinal cortex,regulates long-term synaptic depression",,IGI,CPX-1134 Q15109 ,J:241477 
+MGI:1100508,Kcnj8,"potassium inwardly-rectifying channel, subfamily J, member 8",6,,p38MAPK cascade,,,IMP,MGI:3720053 ,J:264860 
+MGI:104663,Lep,leptin,6,,positive regulation of p38MAPK cascade,,,IBA,PTN001711963 ,J:265628 
+MGI:104663,Lep,leptin,6,,positive regulation of p38MAPK cascade,,,ISO,P41159 ,J:164563 
+MGI:1346868,Map2k3,mitogen-activated protein kinase kinase 3,11,,p38MAPK cascade,,,ISO,P46734 ,J:164563 
+MGI:1346874,Map3k3,mitogen-activated protein kinase kinase kinase 3,11,,positive regulation of p38MAPK cascade,,,IDA,,J:60748 
+MGI:1346875,Map3k4,mitogen-activated protein kinase kinase kinase 4,17,,positive regulation of p38MAPK cascade,,,ISO,Q9Y6R4 ,J:164563 
+MGI:1346876,Map3k5,mitogen-activated protein kinase kinase kinase 5,10,,p38MAPK cascade,,,IEP,,J:184291 
+MGI:1346876,Map3k5,mitogen-activated protein kinase kinase kinase 5,10,,positive regulation of p38MAPK cascade,,,ISO,RGD:1306565 ,J:155856 
+MGI:2443258,Map3k20,mitogen-activated protein kinase kinase kinase 20,2,,p38MAPK cascade,,,IMP,,J:241322 
+MGI:2443258,Map3k20,mitogen-activated protein kinase kinase kinase 20,2,,p38MAPK cascade,,,ISO,Q9NYL2 ,J:164563 
+MGI:1346865,Mapk14,mitogen-activated protein kinase 14,17,,p38MAPK cascade,,,IDA,,J:203388 
+MGI:109298,Mapkapk2,MAP kinase-activated protein kinase 2,1,,p38MAPK cascade,,,IMP,,J:204512 
+MGI:96969,Met,met proto-oncogene,6,,positive regulation of p38MAPK cascade,,,IMP,MGI:3041135 ,J:204089 
+MGI:1098644,Mfhas1,malignant fibrous histiocytoma amplified sequence 1,8,,positive regulation of p38MAPK cascade,,,ISO,Q9Y4C4 ,J:164563 
+MGI:1355329,Mink1,misshapen-like kinase 1 (zebrafish),11,,positive regulation of p38MAPK cascade,,,IDA,,J:60996 
+MGI:1352466,Nr2c2,"nuclear receptor subfamily 2, group C, member 2",6,,p38MAPK cascade,,,IEP,,J:184291 
+MGI:97439,Oprk1,"opioid receptor, kappa 1",1,,positive regulation of p38MAPK cascade,,,ISO,RGD:69426 ,J:155856 
+MGI:1098283,Per1,period circadian clock 1,11,,regulation of p38MAPK cascade,,,ISO,RGD:727863 ,J:155856 
+MGI:2138327,Phlpp1,PH domain and leucine rich repeat protein phosphatase 1,1,,regulation of p38MAPK cascade,,,ISO,O60346 ,J:164563 
+MGI:2159342,Pja2,praja ring finger ubiquitin ligase 2,17,,positive regulation of p38MAPK cascade,,,ISO,O43164 ,J:164563 
+MGI:107170,Ptpn22,"protein tyrosine phosphatase, non-receptor type 22 (lymphoid)",3,,negative regulation of p38MAPK cascade,,,IBA,PTN000440270 ,J:265628 
+MGI:107170,Ptpn22,"protein tyrosine phosphatase, non-receptor type 22 (lymphoid)",3,,negative regulation of p38MAPK cascade,"happens in myeloid dendritic cell,is a part of cellular response to muramyl dipeptide",,IMP,,J:221551 
+MGI:107170,Ptpn22,"protein tyrosine phosphatase, non-receptor type 22 (lymphoid)",3,,negative regulation of p38MAPK cascade,,,ISO,Q9Y2R2 ,J:164563 
+MGI:2140767,Rell1,RELT-like 1,5,,positive regulation of p38MAPK cascade,,,IBA,PTN002826927 ,J:265628 
+MGI:2140767,Rell1,RELT-like 1,5,,positive regulation of p38MAPK cascade,,,ISO,Q8IUW5 ,J:164563 
+MGI:1918044,Rell2,RELT-like 2,18,,positive regulation of p38MAPK cascade,,,IBA,PTN002834218 ,J:265628 
+MGI:1918044,Rell2,RELT-like 2,18,,positive regulation of p38MAPK cascade,,,ISO,Q8NC24 ,J:164563 
+MGI:1917347,Sash1,SAM and SH3 domain containing 1,10,,positive regulation of p38MAPK cascade,,,ISO,O94885 ,J:205449 
+MGI:1316649,Sphk1,sphingosine kinase 1,11,,positive regulation of p38MAPK cascade,,,ISO,Q9NYA1 ,J:164563 
+MGI:98282,Spi1,spleen focus forming virus (SFFV) proviral integration oncogene,2,,positive regulation of p38MAPK cascade,"is a part of oncogene-induced cell senescence,happens in hematopoietic cell",,IDA,,J:297324 
+MGI:1858416,Stk39,serine/threonine kinase 39,2,,positive regulation of p38MAPK cascade,,,ISO,RGD:621643 ,J:155856 
+MGI:1858416,Stk39,serine/threonine kinase 39,2,,positive regulation of p38MAPK cascade,,,ISO,Q9UEW8 ,J:164563 
+MGI:1858416,Stk39,serine/threonine kinase 39,2,,positive regulation of p38MAPK cascade,,,ISS,Q9UEW8 ,J:62150 
+MGI:1913150,Trem2,triggering receptor expressed on myeloid cells 2,17,,negative regulation of p38MAPK cascade,"happens at the same time as neuroinflammatory response,happens at the same time as cellular response to glucose stimulus,happens at the same time as cellular response to hypoxia,happens in mature microglial cell",,IMP,,J:304588 
+MGI:1926945,Trpv4,"transient receptor potential cation channel, subfamily V, member 4",5,NOT,regulation of p38MAPK cascade,,,IMP,,J:188264 
+MGI:1921622,Ulk4,unc-51-like kinase 4,9,,regulation of p38MAPK cascade,,,ISO,Q96C45 ,J:73065 
+MGI:103178,Vegfa,vascular endothelial growth factor A,17,,positive regulation of p38MAPK cascade,,,ISO,P15692 ,J:164563 
+MGI:98973,Xdh,xanthine dehydrogenase,17,,positive regulation of p38MAPK cascade,,,ISO,P47989 ,J:164563 
+MGI:2385891,Zc3h12a,zinc finger CCCH type containing 12A,4,,positive regulation of p38MAPK cascade,,,ISO,Q5D1E8 ,J:164563 
+MGI:99180,Zfp36,zinc finger protein 36,7,,p38MAPK cascade,,,IDA,,J:233588 
+MGI:107946,Zfp36l1,"zinc finger protein 36, C3H type-like 1",12,,p38MAPK cascade,,,IDA,,J:233580 

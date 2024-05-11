@@ -1,0 +1,117 @@
+MGI Gene/Marker ID,Symbol,Name,Chr,Qualifier,Annotated Term,Context,Proteoform,Evidence,Inferred From,Reference(s)
+MGI:1890773,Actn4,actinin alpha 4,7,,tumor necrosis factor-mediated signaling pathway,,,ISO,O43707 ,J:164563 
+MGI:1096335,Adam17,a disintegrin and metallopeptidase domain 17,12,,positive regulation of tumor necrosis factor-mediated signaling pathway,,,ISO,P78536 ,J:164563 
+MGI:106675,Adipoq,"adiponectin, C1Q and collagen domain containing",16,,negative regulation of tumor necrosis factor-mediated signaling pathway,,,ISO,Q15848 ,J:164563 
+MGI:2686159,Aim2,absent in melanoma 2,1,,tumor necrosis factor-mediated signaling pathway,,,ISO,O14862 ,J:164563 
+MGI:88049,Apoa1,apolipoprotein A-I,9,,negative regulation of tumor necrosis factor-mediated signaling pathway,,,ISO,P02647 ,J:164563 
+MGI:2676458,Birc7,baculoviral IAP repeat-containing 7,2,,negative regulation of tumor necrosis factor-mediated signaling pathway,,,ISO,Q96CA5 ,J:164563 
+MGI:2386258,Card14,"caspase recruitment domain family, member 14",11,,tumor necrosis factor-mediated signaling pathway,,,ISO,Q9BXL6 ,J:164563 
+MGI:96544,Casp1,caspase 1,9,,positive regulation of tumor necrosis factor-mediated signaling pathway,,,ISO,P29466 ,J:164563 
+MGI:1921436,Ccdc3,coiled-coil domain containing 3,2,,negative regulation of tumor necrosis factor-mediated signaling pathway,,,ISO,Q9BQI4 ,J:164563 
+MGI:1195273,Cd70,CD70 antigen,17,,tumor necrosis factor-mediated signaling pathway,,,IEA,IPR042374 ,J:72247 
+MGI:1913876,Cdip1,cell death inducing Trp53 target 1,16,,tumor necrosis factor-mediated signaling pathway,,,ISO,Q9H305 ,J:73065 
+MGI:99484,Chuk,conserved helix-loop-helix ubiquitous kinase,19,,tumor necrosis factor-mediated signaling pathway,,,IBA,PTN000540281 ,J:265628 
+MGI:1929209,Cldn18,claudin 18,9,,TNFSF11-mediated signaling pathway,,,IMP,MGI:5007067 ,J:196719 
+MGI:1914197,Commd7,COMM domain containing 7,2,,tumor necrosis factor-mediated signaling pathway,,,IBA,PTN001262467 ,J:265628 
+MGI:1914197,Commd7,COMM domain containing 7,2,,tumor necrosis factor-mediated signaling pathway,,,ISO,Q86VX2 ,J:164563 
+MGI:2386621,Cpne1,copine I,2,,positive regulation of tumor necrosis factor-mediated signaling pathway,,,IBA,PTN002586632 ,J:265628 
+MGI:2386621,Cpne1,copine I,2,,positive regulation of tumor necrosis factor-mediated signaling pathway,,,ISO,Q99829 ,J:164563 
+MGI:1921506,Cyld,CYLD lysine 63 deubiquitinase,8,,regulation of tumor necrosis factor-mediated signaling pathway,,,IDA,,J:244164 
+MGI:1921506,Cyld,CYLD lysine 63 deubiquitinase,8,,regulation of tumor necrosis factor-mediated signaling pathway,,,ISO,Q9NQC7 ,J:164563 
+MGI:2442860,Eda2r,ectodysplasin A2 receptor,X,,tumor necrosis factor-mediated signaling pathway,,,IEA,IPR022319 ,J:72247 
+MGI:894663,Ext1,exostosin glycosyltransferase 1,15,,TNFSF11-mediated signaling pathway,,,IMP,,J:297359 
+MGI:101910,F2rl1,F2R like trypsin receptor 1,13,,negative regulation of tumor necrosis factor-mediated signaling pathway,,,ISO,P55085 ,J:164563 
+MGI:95660,Gas6,growth arrest specific 6,8,,negative regulation of tumor necrosis factor-mediated signaling pathway,,,ISO,Q14393 ,J:164563 
+MGI:1891751,Gps2,G protein pathway suppressor 2,11,,negative regulation of tumor necrosis factor-mediated signaling pathway,,,IMP,,J:259118 
+MGI:2448415,H2bc21,H2B clustered histone 21,3,,negative regulation of tumor necrosis factor-mediated signaling pathway,,,ISO,P06899 ,J:164563 
+MGI:1314873,Hipk1,homeodomain interacting protein kinase 1,3,,regulation of tumor necrosis factor-mediated signaling pathway,,,ISO,Q86Z02 ,J:164563 
+MGI:1338071,Ikbkb,inhibitor of kappaB kinase beta,8,,tumor necrosis factor-mediated signaling pathway,,,IBA,PTN000540281 ,J:265628 
+MGI:1338071,Ikbkb,inhibitor of kappaB kinase beta,8,,tumor necrosis factor-mediated signaling pathway,,,IMP,,J:225413 
+MGI:1338071,Ikbkb,inhibitor of kappaB kinase beta,8,,tumor necrosis factor-mediated signaling pathway,,,ISO,O14920 ,J:164563 
+MGI:1195267,Ilk,integrin linked kinase,7,,tumor necrosis factor-mediated signaling pathway,,,ISO,Q13418 ,J:164563 
+MGI:96629,Jak2,Janus kinase 2,19,,tumor necrosis factor-mediated signaling pathway,,,ISO,O60674 ,J:164563 
+MGI:96705,Krt8,keratin 8,15,,tumor necrosis factor-mediated signaling pathway,,,IGI,MGI:96692 ,J:121814 
+MGI:96705,Krt8,keratin 8,15,,tumor necrosis factor-mediated signaling pathway,,,IMP,MGI:2178042 ,J:121814 
+MGI:96692,Krt18,keratin 18,15,,tumor necrosis factor-mediated signaling pathway,,,IGI,MGI:96705 ,J:121814 
+MGI:108046,Laptm5,lysosomal-associated protein transmembrane 5,4,,positive regulation of tumor necrosis factor-mediated signaling pathway,"happens at the same time as toll-like receptor 4 signaling pathway,happens in macrophage",,IMP,,J:286941 
+MGI:1195263,Lims1,LIM and senescent cell antigen-like domains 1,10,,tumor necrosis factor-mediated signaling pathway,,,ISO,P48059 ,J:164563 
+MGI:1298223,Naip1,"NLR family, apoptosis inhibitory protein 1",13,,negative regulation of tumor necrosis factor-mediated signaling pathway,,,ISO,Q13075 ,J:164563 
+MGI:1298226,Naip2,"NLR family, apoptosis inhibitory protein 2",13,,negative regulation of tumor necrosis factor-mediated signaling pathway,,,ISO,Q13075 ,J:164563 
+MGI:1298220,Naip5,"NLR family, apoptosis inhibitory protein 5",13,,negative regulation of tumor necrosis factor-mediated signaling pathway,,,ISO,Q13075 ,J:164563 
+MGI:1298222,Naip6,"NLR family, apoptosis inhibitory protein 6",13,,negative regulation of tumor necrosis factor-mediated signaling pathway,,,ISO,Q13075 ,J:164563 
+MGI:1858256,Naip7,"NLR family, apoptosis inhibitory protein 7",13,,negative regulation of tumor necrosis factor-mediated signaling pathway,,,ISO,Q13075 ,J:164563 
+MGI:104741,Nfkbia,"nuclear factor of kappa light polypeptide gene enhancer in B cells inhibitor, alpha",12,,tumor necrosis factor-mediated signaling pathway,,,ISO,P25963 ,J:164563 
+MGI:1916971,Nkiras1,NFKB inhibitor interacting Ras-like protein 1,14,,regulation of tumor necrosis factor-mediated signaling pathway,,,IGI,MGI:1314884 MGI:1919216 ,J:277582 
+MGI:1919216,Nkiras2,NFKB inhibitor interacting Ras-like protein 2,11,,regulation of tumor necrosis factor-mediated signaling pathway,,,IGI,MGI:1314884 MGI:1916971 ,J:277582 
+MGI:1925938,Nol3,nucleolar protein 3 (apoptosis repressor with CARD domain),8,,negative regulation of tumor necrosis factor-mediated signaling pathway,,,IMP,,J:218360 
+MGI:1352464,Nr1h4,"nuclear receptor subfamily 1, group H, member 4",10,,negative regulation of tumor necrosis factor-mediated signaling pathway,,,IMP,,J:228561 
+MGI:3577015,Otulin,OTU deubiquitinase with linear linkage specificity,15,,regulation of tumor necrosis factor-mediated signaling pathway,,,IBA,PTN002133431 ,J:265628 
+MGI:3577015,Otulin,OTU deubiquitinase with linear linkage specificity,15,,regulation of tumor necrosis factor-mediated signaling pathway,,,IMP,,J:236075 
+MGI:3577015,Otulin,OTU deubiquitinase with linear linkage specificity,15,,regulation of tumor necrosis factor-mediated signaling pathway,,,IMP,,J:264084 
+MGI:3577015,Otulin,OTU deubiquitinase with linear linkage specificity,15,,regulation of tumor necrosis factor-mediated signaling pathway,,,ISO,Q96BN8 ,J:164563 
+MGI:1924963,Peli3,pellino 3,19,,negative regulation of tumor necrosis factor-mediated signaling pathway,,,IMP,MGI:5441750 ,J:205896 
+MGI:1924963,Peli3,pellino 3,19,,negative regulation of tumor necrosis factor-mediated signaling pathway,,,ISO,Q8N2H9 ,J:73065 
+MGI:1913126,Pias3,protein inhibitor of activated STAT 3,3,,TNFSF11-mediated signaling pathway,,,IDA,,J:145836 
+MGI:2136940,Pias4,protein inhibitor of activated STAT 4,10,,negative regulation of tumor necrosis factor-mediated signaling pathway,happens in keratinocyte,,IMP,,J:159937 
+MGI:1890497,Plvap,plasmalemma vesicle associated protein,8,,tumor necrosis factor-mediated signaling pathway,,,ISO,Q9BX97 ,J:164563 
+MGI:1321161,Ppp2cb,"protein phosphatase 2 (formerly 2A), catalytic subunit, beta isoform",8,,negative regulation of tumor necrosis factor-mediated signaling pathway,,,ISO,P62714 ,J:164563 
+MGI:1355296,Prkn,parkin RBR E3 ubiquitin protein ligase,17,,positive regulation of tumor necrosis factor-mediated signaling pathway,,,ISO,O60260 ,J:164563 
+MGI:104908,Ptk2b,PTK2 protein tyrosine kinase 2 beta,14,,tumor necrosis factor-mediated signaling pathway,,,ISO,Q14289 ,J:164563 
+MGI:97806,Ptpn2,"protein tyrosine phosphatase, non-receptor type 2",18,,negative regulation of tumor necrosis factor-mediated signaling pathway,,,IMP,,J:96360 
+MGI:1931465,Pycard,PYD and CARD domain containing,7,,regulation of tumor necrosis factor-mediated signaling pathway,,,ISO,Q9ULZ3 ,J:164563 
+MGI:1931465,Pycard,PYD and CARD domain containing,7,,tumor necrosis factor-mediated signaling pathway,,,ISO,Q9ULZ3 ,J:164563 
+MGI:103290,Rela,v-rel reticuloendotheliosis viral oncogene homolog A (avian),19,,tumor necrosis factor-mediated signaling pathway,,,ISO,Q04206 ,J:164563 
+MGI:1914588,Rffl,ring finger and FYVE like domain containing protein,11,,negative regulation of tumor necrosis factor-mediated signaling pathway,,,ISO,Q8WZ73 ,J:164563 
+MGI:108212,Ripk1,receptor (TNFRSF)-interacting serine-threonine kinase 1,13,,positive regulation of tumor necrosis factor-mediated signaling pathway,,,IDA,,J:268016 
+MGI:1915691,Rraga,Ras-related GTP binding A,4,,tumor necrosis factor-mediated signaling pathway,,,ISO,Q7L523 ,J:164563 
+MGI:1913331,Sharpin,SHANK-associated RH domain interacting protein,15,,regulation of tumor necrosis factor-mediated signaling pathway,,,IMP,,J:170809 
+MGI:1913331,Sharpin,SHANK-associated RH domain interacting protein,15,,regulation of tumor necrosis factor-mediated signaling pathway,,,IMP,,J:170810 
+MGI:1913331,Sharpin,SHANK-associated RH domain interacting protein,15,,regulation of tumor necrosis factor-mediated signaling pathway,,,ISO,Q9H0F6 ,J:164563 
+MGI:2146885,Spata2,spermatogenesis associated 2,2,,regulation of tumor necrosis factor-mediated signaling pathway,,,IBA,PTN002691991 ,J:265628 
+MGI:2146885,Spata2,spermatogenesis associated 2,2,,regulation of tumor necrosis factor-mediated signaling pathway,,,IMP,,J:244164 
+MGI:2146885,Spata2,spermatogenesis associated 2,2,,regulation of tumor necrosis factor-mediated signaling pathway,,,ISO,Q9UM82 ,J:164563 
+MGI:1316649,Sphk1,sphingosine kinase 1,11,,regulation of tumor necrosis factor-mediated signaling pathway,,,ISO,RGD:620048 ,J:155856 
+MGI:1316649,Sphk1,sphingosine kinase 1,11,,regulation of tumor necrosis factor-mediated signaling pathway,,,ISO,Q9NYA1 ,J:164563 
+MGI:2446700,St18,suppression of tumorigenicity 18,1,,tumor necrosis factor-mediated signaling pathway,,,ISO,O60284 ,J:164563 
+MGI:103063,Stat1,signal transducer and activator of transcription 1,1,,tumor necrosis factor-mediated signaling pathway,,,ISO,P42224 ,J:164563 
+MGI:99515,Syk,spleen tyrosine kinase,13,,regulation of tumor necrosis factor-mediated signaling pathway,,,ISO,P43405 ,J:164563 
+MGI:1341872,Tjp2,tight junction protein 2,19,,TNFSF11-mediated signaling pathway,,,IMP,,J:196719 
+MGI:104798,Tnf,tumor necrosis factor,17,,tumor necrosis factor-mediated signaling pathway,,,IBA,PTN001352146 ,J:265628 
+MGI:104798,Tnf,tumor necrosis factor,17,,tumor necrosis factor-mediated signaling pathway,,,IDA,,J:15363 
+MGI:104798,Tnf,tumor necrosis factor,17,,tumor necrosis factor-mediated signaling pathway,,,ISO,P01375 ,J:164563 
+MGI:1314884,Tnfrsf1a,"tumor necrosis factor receptor superfamily, member 1a",6,,regulation of tumor necrosis factor-mediated signaling pathway,,,IGI,MGI:1916971 MGI:1919216 ,J:277582 
+MGI:1314884,Tnfrsf1a,"tumor necrosis factor receptor superfamily, member 1a",6,,tumor necrosis factor-mediated signaling pathway,,,ISO,RGD:621237 ,J:155856 
+MGI:1314884,Tnfrsf1a,"tumor necrosis factor receptor superfamily, member 1a",6,,tumor necrosis factor-mediated signaling pathway,,,ISO,P19438 ,J:164563 
+MGI:1314891,Tnfrsf11a,"tumor necrosis factor receptor superfamily, member 11a, NFKB activator",1,,positive regulation of ERK1 and ERK2 cascade via TNFSF11-mediated signaling,,,ISO,Q9Y6Q6 ,J:164563 
+MGI:1314891,Tnfrsf11a,"tumor necrosis factor receptor superfamily, member 11a, NFKB activator",1,,TNFSF11-mediated signaling pathway,,,IBA,PTN002932239 ,J:265628 
+MGI:1314891,Tnfrsf11a,"tumor necrosis factor receptor superfamily, member 11a, NFKB activator",1,,TNFSF11-mediated signaling pathway,,,ISO,Q9Y6Q6 ,J:164563 
+MGI:1314891,Tnfrsf11a,"tumor necrosis factor receptor superfamily, member 11a, NFKB activator",1,,tumor necrosis factor-mediated signaling pathway,,,IMP,,J:155398 
+MGI:1919299,Tnfrsf13c,"tumor necrosis factor receptor superfamily, member 13c",15,,tumor necrosis factor-mediated signaling pathway,,,IEA,IPR022338 IPR043521 ,J:72247 
+MGI:1343050,Tnfrsf17,"tumor necrosis factor receptor superfamily, member 17",16,,tumor necrosis factor-mediated signaling pathway,,,IEA,IPR022320 IPR043521 ,J:72247 
+MGI:1100089,Tnfsf11,"tumor necrosis factor (ligand) superfamily, member 11",14,,positive regulation of ERK1 and ERK2 cascade via TNFSF11-mediated signaling,,,ISO,O14788 ,J:164563 
+MGI:1100089,Tnfsf11,"tumor necrosis factor (ligand) superfamily, member 11",14,,TNFSF11-mediated signaling pathway,,,IDA,,J:134223 
+MGI:1100089,Tnfsf11,"tumor necrosis factor (ligand) superfamily, member 11",14,,TNFSF11-mediated signaling pathway,,,IDA,,J:145836 
+MGI:1100089,Tnfsf11,"tumor necrosis factor (ligand) superfamily, member 11",14,,TNFSF11-mediated signaling pathway,,,IDA,,J:196719 
+MGI:1100089,Tnfsf11,"tumor necrosis factor (ligand) superfamily, member 11",14,,TNFSF11-mediated signaling pathway,,,ISO,O14788 ,J:164563 
+MGI:1100089,Tnfsf11,"tumor necrosis factor (ligand) superfamily, member 11",14,,tumor necrosis factor-mediated signaling pathway,,,IGI,O35305 ,J:155398 
+MGI:1344376,Tnfsf13b,"tumor necrosis factor (ligand) superfamily, member 13b",8,,tumor necrosis factor-mediated signaling pathway,,,IGI,MGI:2143599 ,J:138560 
+MGI:2673064,Tnfsf18,"tumor necrosis factor (ligand) superfamily, member 18",1,,tumor necrosis factor-mediated signaling pathway,,,IBA,PTN000392087 ,J:265628 
+MGI:2673064,Tnfsf18,"tumor necrosis factor (ligand) superfamily, member 18",1,,tumor necrosis factor-mediated signaling pathway,,,IMP,,J:180483 
+MGI:109200,Tradd,TNFRSF1A-associated via death domain,8,,tumor necrosis factor-mediated signaling pathway,,,ISO,Q15628 ,J:164563 
+MGI:101836,Traf1,TNF receptor-associated factor 1,2,,tumor necrosis factor-mediated signaling pathway,,,IBA,PTN000014920 ,J:265628 
+MGI:101835,Traf2,TNF receptor-associated factor 2,2,,positive regulation of tumor necrosis factor-mediated signaling pathway,,,IDA,,J:218005 
+MGI:101835,Traf2,TNF receptor-associated factor 2,2,,tumor necrosis factor-mediated signaling pathway,,,IBA,PTN000014920 ,J:265628 
+MGI:101835,Traf2,TNF receptor-associated factor 2,2,,tumor necrosis factor-mediated signaling pathway,,,ISO,RGD:1310457 ,J:155856 
+MGI:101835,Traf2,TNF receptor-associated factor 2,2,,tumor necrosis factor-mediated signaling pathway,,,ISO,Q12933 ,J:164563 
+MGI:108041,Traf3,TNF receptor-associated factor 3,12,,tumor necrosis factor-mediated signaling pathway,,,IBA,PTN000014920 ,J:265628 
+MGI:108041,Traf3,TNF receptor-associated factor 3,12,,tumor necrosis factor-mediated signaling pathway,,,IMP,,J:124635 
+MGI:108041,Traf3,TNF receptor-associated factor 3,12,,tumor necrosis factor-mediated signaling pathway,,,ISO,Q13114 ,J:164563 
+MGI:2143599,Traf3ip2,TRAF3 interacting protein 2,10,,tumor necrosis factor-mediated signaling pathway,,,IGI,MGI:1344376 ,J:138560 
+MGI:107548,Traf5,TNF receptor-associated factor 5,1,,tumor necrosis factor-mediated signaling pathway,,,IBA,PTN000014920 ,J:265628 
+MGI:108072,Traf6,TNF receptor-associated factor 6,2,,tumor necrosis factor-mediated signaling pathway,,,IBA,PTN000014920 ,J:265628 
+MGI:1096377,Traip,TRAF-interacting protein,9,,negative regulation of tumor necrosis factor-mediated signaling pathway,,,ISO,Q9BWF2 ,J:164563 
+MGI:1917057,Trim32,tripartite motif-containing 32,4,,positive regulation of tumor necrosis factor-mediated signaling pathway,happens in keratinocyte,,IMP,,J:159937 
+MGI:98834,Trp53,transformation related protein 53,11,,tumor necrosis factor-mediated signaling pathway,,,ISO,P04637 ,J:164563 
+MGI:1289248,Txndc17,thioredoxin domain containing 17,11,,tumor necrosis factor-mediated signaling pathway,,,ISO,Q9BRA2 ,J:164563 
+MGI:1858216,Ube2k,ubiquitin-conjugating enzyme E2K,5,,positive regulation of tumor necrosis factor-mediated signaling pathway,,,ISO,P61086 ,J:164563 
+MGI:102674,Umod,uromodulin,7,,tumor necrosis factor-mediated signaling pathway,,,IMP,,J:252597 

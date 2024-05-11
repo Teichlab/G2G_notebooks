@@ -1,0 +1,321 @@
+MGI Gene/Marker ID,Symbol,Name,Chr,Qualifier,Annotated Term,Context,Proteoform,Evidence,Inferred From,Reference(s)
+MGI:893592,Ager,advanced glycosylation end product-specific receptor,17,,positive regulation of JNK cascade,,,ISO,Q15109 ,J:164563 
+MGI:1919737,Aida,"axin interactor, dorsalization associated",1,,negative regulation of JNK cascade,,,IMP,,J:137475 
+MGI:1919737,Aida,"axin interactor, dorsalization associated",1,,negative regulation of JNK cascade,,,IPI,O35625 ,J:137475 
+MGI:1919737,Aida,"axin interactor, dorsalization associated",1,,negative regulation of JNK cascade,,,ISO,Q6PBN2 ,J:137475 
+MGI:1919737,Aida,"axin interactor, dorsalization associated",1,,negative regulation of JUN kinase activity,,,IDA,,J:137475 
+MGI:1919737,Aida,"axin interactor, dorsalization associated",1,,negative regulation of JUN kinase activity,,,IMP,,J:137475 
+MGI:1919737,Aida,"axin interactor, dorsalization associated",1,,negative regulation of JUN kinase activity,,,ISO,Q6PBN2 ,J:137475 
+MGI:1919737,Aida,"axin interactor, dorsalization associated",1,,negative regulation of JUN kinase activity,,,ISO,Q96BJ3 ,J:137475 
+MGI:87986,Akt1,thymoma viral proto-oncogene 1,12,,negative regulation of JNK cascade,,,ISO,RGD:2081 ,J:155856 
+MGI:2154278,Ankrd6,ankyrin repeat domain 6,4,,positive regulation of JNK cascade,,,IBA,PTN008608947 ,J:265628 
+MGI:88059,App,amyloid beta precursor protein,16,,positive regulation of JNK cascade,,,ISO,P05067 ,J:164563 
+MGI:109349,Atf2,activating transcription factor 2,2,,JNK cascade,,,IMP,MGI:3720850 ,J:172398 
+MGI:109349,Atf2,activating transcription factor 2,2,,JNK cascade,is a part of cellular response to virus,,IMP,,J:141299 
+MGI:1096327,Axin1,axin 1,17,,positive regulation of JNK cascade,,,IMP,MGI:1856035 ,J:137089 
+MGI:1096327,Axin1,axin 1,17,,positive regulation of JNK cascade,,,IMP,,J:137475 
+MGI:2676458,Birc7,baculoviral IAP repeat-containing 7,2,,positive regulation of JNK cascade,,,ISO,Q96CA5 ,J:164563 
+MGI:2685628,Card9,"caspase recruitment domain family, member 9",2,,JNK cascade,happens in monoblast,,IMP,MGI:3698412 ,J:117799 
+MGI:2685628,Card9,"caspase recruitment domain family, member 9",2,,positive regulation of JNK cascade,positively regulates JNK cascade,,IMP,MGI:3698412 ,J:117799 
+MGI:2685628,Card9,"caspase recruitment domain family, member 9",2,,positive regulation of JNK cascade,,,ISO,Q9H257 ,J:117799 
+MGI:1351351,Casr,calcium-sensing receptor,16,,JNK cascade,,,ISO,RGD:2277 ,J:155856 
+MGI:1346316,Ccl19,C-C motif chemokine ligand 19,4,,positive regulation of JNK cascade,,,ISO,Q99731 ,J:164563 
+MGI:1891387,Ccl19-ps1,"C-C motif chemokine ligand 19, pseudogene 1",4,,positive regulation of JNK cascade,,,ISO,Q99731 ,J:164563 
+MGI:1891391,Ccl19-ps3,"C-C motif chemokine ligand 19, pseudogene 3",4,,positive regulation of JNK cascade,,,ISO,Q99731 ,J:164563 
+MGI:3708691,Ccl19-ps4,"C-C motif chemokine ligand 19, pseudogene 4",4,,positive regulation of JNK cascade,,,ISO,Q99731 ,J:164563 
+MGI:3693096,Ccl19-ps5,"C-C motif chemokine ligand 19, pseudogene 5",4,,positive regulation of JNK cascade,,,ISO,Q99731 ,J:164563 
+MGI:5434459,Ccl19-ps6,"C-C motif chemokine ligand 19, pseudogene 6",4,,positive regulation of JNK cascade,,,ISO,Q99731 ,J:164563 
+MGI:1349183,Ccl21a,C-C motif chemokine ligand 21 (serine),4,,positive regulation of JNK cascade,,,ISO,O00585 ,J:164563 
+MGI:1349182,Ccl21b,C-C motif chemokine ligand 21B (leucine),4,,positive regulation of JNK cascade,,,ISO,O00585 ,J:164563 
+MGI:5434896,Ccl21d,C-C motif chemokine ligand 21D,4,,positive regulation of JNK cascade,,,ISO,O00585 ,J:164563 
+MGI:95537,Ccn2,cellular communication network factor 2,10,,positive regulation of JNK cascade,,,ISO,P29279 ,J:164563 
+MGI:88326,Cd27,CD27 antigen,6,,positive regulation of JNK cascade,,,IDA,,J:113841 
+MGI:106211,Cdc42,cell division cycle 42,4,,positive regulation of JNK cascade,,,ISO,RGD:71043 ,J:155856 
+MGI:1929745,Cdc42ep5,CDC42 effector protein 5,7,,JNK cascade,,,IDA,,J:65159 
+MGI:1889510,Cdc42se1,CDC42 small effector 1,3,,negative regulation of JNK cascade,,,ISS,,J:63564 
+MGI:1347245,Ceacam1,CEA cell adhesion molecule 1,7,,negative regulation of JNK cascade,happens in T cell,PR:P31809-3,IMP,,J:116136 
+MGI:1347245,Ceacam1,CEA cell adhesion molecule 1,7,,positive regulation of JNK cascade,happens in B cell,PR:P31809,IDA,,J:84339 
+MGI:1349415,Cops5,COP9 signalosome subunit 5,1,,regulation of JNK cascade,,,ISO,Q92905 ,J:164563 
+MGI:2685919,Cracr2a,calcium release activated channel regulator 2A,6,,positive regulation of JNK cascade,,,IMP,,J:259523 
+MGI:2685919,Cracr2a,calcium release activated channel regulator 2A,6,,positive regulation of JNK cascade,,,ISO,Q9BSW2 ,J:164563 
+MGI:88508,Crk,v-crk avian sarcoma virus CT10 oncogene homolog,11,,positive regulation of JNK cascade,,,ISO,RGD:2405 ,J:155856 
+MGI:1921506,Cyld,CYLD lysine 63 deubiquitinase,8,,negative regulation of JNK cascade,,,IDA,,J:262344 
+MGI:1921506,Cyld,CYLD lysine 63 deubiquitinase,8,,negative regulation of JNK cascade,,,ISO,Q9NQC7 ,J:164563 
+MGI:109175,Dab2,"disabled 2, mitogen-responsive phosphoprotein",15,,positive regulation of JNK cascade,,,IDA,,J:188905 
+MGI:1916851,Dab2ip,disabled 2 interacting protein,2,,positive regulation of JNK cascade,,,ISO,Q5VWQ8 ,J:164563 
+MGI:1891740,Dact1,dishevelled-binding antagonist of beta-catenin 1,12,,negative regulation of JNK cascade,,,IBA,PTN002698130 ,J:265628 
+MGI:1891740,Dact1,dishevelled-binding antagonist of beta-catenin 1,12,,negative regulation of JNK cascade,,,IDA,,J:187575 
+MGI:1891740,Dact1,dishevelled-binding antagonist of beta-catenin 1,12,,negative regulation of JNK cascade,,,ISO,Q9NYF0 ,J:164563 
+MGI:1197015,Daxx,Fas death domain-associated protein,17,,JNK cascade,,,ISO,Q9UER7 ,J:164563 
+MGI:2679721,Dixdc1,DIX domain containing 1,9,,positive regulation of JNK cascade,,,ISO,RGD:1309902 ,J:155856 
+MGI:1270129,Dnaja1,DnaJ heat shock protein family (Hsp40) member A1,4,,negative regulation of JUN kinase activity,,,ISO,P31689 ,J:164563 
+MGI:1919599,Dusp3,dual specificity phosphatase 3 (vaccinia virus phosphatase VH1-related),11,,negative regulation of JNK cascade,,,IBA,PTN000017220 ,J:265628 
+MGI:1919599,Dusp3,dual specificity phosphatase 3 (vaccinia virus phosphatase VH1-related),11,,negative regulation of JNK cascade,,,ISO,P51452 ,J:164563 
+MGI:1927070,Dusp10,dual specificity phosphatase 10,1,,negative regulation of JNK cascade,,,IMP,MGI:3052343 ,J:92104 
+MGI:1927070,Dusp10,dual specificity phosphatase 10,1,,negative regulation of JNK cascade,,,ISO,Q9Y6W6 ,J:164563 
+MGI:1927070,Dusp10,dual specificity phosphatase 10,1,,negative regulation of JUN kinase activity,,,IBA,PTN001605539 ,J:265628 
+MGI:1927070,Dusp10,dual specificity phosphatase 10,1,,negative regulation of JUN kinase activity,,,IMP,MGI:3052343 ,J:92104 
+MGI:1927070,Dusp10,dual specificity phosphatase 10,1,,negative regulation of JUN kinase activity,,,ISO,Q9Y6W6 ,J:164563 
+MGI:1917936,Dusp16,dual specificity phosphatase 16,6,,negative regulation of JUN kinase activity,,,ISO,Q9BY84 ,J:164563 
+MGI:1915332,Dusp19,dual specificity phosphatase 19,2,,JNK cascade,,,IDA,,J:77617 
+MGI:1915332,Dusp19,dual specificity phosphatase 19,2,,negative regulation of JNK cascade,,,IDA,,J:77617 
+MGI:1915332,Dusp19,dual specificity phosphatase 19,2,,negative regulation of JUN kinase activity,,,IDA,,J:77617 
+MGI:1915332,Dusp19,dual specificity phosphatase 19,2,,positive regulation of JNK cascade,,,IDA,,J:77617 
+MGI:1915926,Dusp22,dual specificity phosphatase 22,13,,positive regulation of JNK cascade,,,IDA,,J:79283 
+MGI:2442860,Eda2r,ectodysplasin A2 receptor,X,,positive regulation of JNK cascade,,,IBA,PTN000950406 ,J:265628 
+MGI:2442860,Eda2r,ectodysplasin A2 receptor,X,,positive regulation of JNK cascade,,,ISO,Q9HAV5 ,J:164563 
+MGI:1343498,Edar,ectodysplasin-A receptor,10,,positive regulation of JNK cascade,,,IBA,PTN000950406 ,J:265628 
+MGI:95294,Egfr,epidermal growth factor receptor,11,,regulation of JNK cascade,,,ISO,P00533 ,J:164563 
+MGI:1096337,Ephb1,Eph receptor B1,9,,regulation of JNK cascade,,,ISO,P54762 ,J:164563 
+MGI:1100494,Ercc6,"excision repair cross-complementing rodent repair deficiency, complementation group 6",14,,JNK cascade,,,IMP,MGI:1932102 ,J:111758 
+MGI:101910,F2rl1,F2R like trypsin receptor 1,13,,negative regulation of JNK cascade,,,ISO,P55085 ,J:164563 
+MGI:101910,F2rl1,F2R like trypsin receptor 1,13,,positive regulation of JNK cascade,,,ISO,P55085 ,J:164563 
+MGI:101910,F2rl1,F2R like trypsin receptor 1,13,,regulation of JNK cascade,,,ISO,P55085 ,J:164563 
+MGI:95499,Fcgr2b,"Fc receptor, IgG, low affinity IIb",1,,positive regulation of JNK cascade,"is a part of cellular response to amyloid-beta,happens in cerebral cortex neuron,regulates a function/process that happens in cerebral cortex neuron",,IMP,,J:201623 
+MGI:2183747,Fgd4,"FYVE, RhoGEF and PH domain containing 4",16,,positive regulation of JNK cascade,,,ISO,RGD:708357 ,J:155856 
+MGI:109183,Fgf12,fibroblast growth factor 12,16,,JNK cascade,,,ISO,P61328-2 ,J:73065 
+MGI:109189,Fgf14,fibroblast growth factor 14,14,,JNK cascade,,,ISO,Q92915-2 ,J:73065 
+MGI:1096383,Fgf15,fibroblast growth factor 15,7,,positive regulation of JNK cascade,,,ISO,O95750 ,J:164563 
+MGI:2179507,Fktn,fukutin,4,,negative regulation of JNK cascade,,,ISO,O75072 ,J:164563 
+MGI:95561,Flt4,FMS-like tyrosine kinase 4,11,,positive regulation of JNK cascade,,,ISO,P35916 ,J:164563 
+MGI:107799,Gadd45a,growth arrest and DNA-damage-inducible 45 alpha,6,,positive regulation of JNK cascade,,,ISO,P24522 ,J:164563 
+MGI:107776,Gadd45b,growth arrest and DNA-damage-inducible 45 beta,10,,positive regulation of JNK cascade,,,ISO,O75293 ,J:164563 
+MGI:1346325,Gadd45g,growth arrest and DNA-damage-inducible 45 gamma,13,,positive regulation of JNK cascade,,,ISO,O95257 ,J:164563 
+MGI:1891751,Gps2,G protein pathway suppressor 2,11,,negative regulation of JNK cascade,,,IMP,,J:259118 
+MGI:1891751,Gps2,G protein pathway suppressor 2,11,,negative regulation of JNK cascade,,,ISO,Q13227 ,J:164563 
+MGI:95815,Grik2,"glutamate receptor, ionotropic, kainate 2 (beta 2)",10,,regulation of JNK cascade,,,ISO,RGD:2733 ,J:155856 
+MGI:95865,Gstp1,"glutathione S-transferase, pi 1",19,,negative regulation of JUN kinase activity,,,IDA,,J:172907 
+MGI:95865,Gstp1,"glutathione S-transferase, pi 1",19,,negative regulation of JUN kinase activity,,,IDA,,J:172998 
+MGI:95865,Gstp1,"glutathione S-transferase, pi 1",19,,negative regulation of JUN kinase activity,,,IMP,,J:124412 
+MGI:95865,Gstp1,"glutathione S-transferase, pi 1",19,,negative regulation of JUN kinase activity,,,ISO,P09211 ,J:164563 
+MGI:95864,Gstp2,"glutathione S-transferase, pi 2",19,,negative regulation of JUN kinase activity,,,ISO,P09211 ,J:164563 
+MGI:2385078,Gstp3,glutathione S-transferase pi 3,19,,negative regulation of JUN kinase activity,,,ISO,P09211 ,J:164563 
+MGI:3782108,Gstp-ps,"glutathione S-transferase, pi, pseudogene",1,,negative regulation of JUN kinase activity,,,ISO,P09211 ,J:164563 
+MGI:1889341,Hacd3,3-hydroxyacyl-CoA dehydratase 3,9,,JNK cascade,,,IDA,,J:62736 
+MGI:1343091,Hdac3,histone deacetylase 3,18,,negative regulation of JNK cascade,,,ISO,O15379 ,J:164563 
+MGI:1314872,Hipk2,homeodomain interacting protein kinase 2,6,,positive regulation of JNK cascade,,,ISO,Q9H2X6 ,J:164563 
+MGI:1314882,Hipk3,homeodomain interacting protein kinase 3,2,,negative regulation of JUN kinase activity,,,IMP,,J:65176 
+MGI:96113,Hmgb1,high mobility group box 1,5,,positive regulation of JNK cascade,,,ISO,P09429 ,J:164563 
+MGI:96224,Hras,Harvey rat sarcoma virus oncogene,7,,positive regulation of JNK cascade,,,ISO,P01112 ,J:164563 
+MGI:96433,Igf1r,insulin-like growth factor I receptor,7,,regulation of JNK cascade,,,IBA,PTN002814784 ,J:265628 
+MGI:96433,Igf1r,insulin-like growth factor I receptor,7,,regulation of JNK cascade,,,ISO,P08069 ,J:164563 
+MGI:96542,Il1a,interleukin 1 alpha,2,,positive regulation of JNK cascade,,,ISO,RGD:2890 ,J:155856 
+MGI:96543,Il1b,interleukin 1 beta,2,,JNK cascade,happens in fibroblast,,IDA,,J:102721 
+MGI:96543,Il1b,interleukin 1 beta,2,,JNK cascade,happens in fibroblast,,IGI,MGI:1346877 ,J:102721 
+MGI:96543,Il1b,interleukin 1 beta,2,,positive regulation of JNK cascade,positively regulates JNK cascade,,IDA,,J:102721 
+MGI:96543,Il1b,interleukin 1 beta,2,,positive regulation of JNK cascade,"happens in entorhinal cortex,regulates long-term synaptic depression",,IGI,CPX-1134 Q15109 ,J:241477 
+MGI:96543,Il1b,interleukin 1 beta,2,,positive regulation of JNK cascade,positively regulates JNK cascade,,IGI,MGI:1346877 ,J:102721 
+MGI:96543,Il1b,interleukin 1 beta,2,,positive regulation of JNK cascade,,,ISO,RGD:2891 ,J:155856 
+MGI:96552,Il3,interleukin 3,11,,JNK cascade,happens in pro-B cell,,IDA,,J:88294 
+MGI:96552,Il3,interleukin 3,11,,JNK cascade,happens in pro-B cell,,IMP,,J:88294 
+MGI:96552,Il3,interleukin 3,11,,positive regulation of JNK cascade,positively regulates JNK cascade,,IDA,,J:88294 
+MGI:96552,Il3,interleukin 3,11,,positive regulation of JNK cascade,positively regulates JNK cascade,,IMP,,J:88294 
+MGI:107420,Irak1,interleukin-1 receptor-associated kinase 1,X,,JNK cascade,,,ISO,RGD:1563841 ,J:155856 
+MGI:2182474,Irak4,interleukin-1 receptor-associated kinase 4,15,,JNK cascade,,,ISO,RGD:1305303 ,J:155856 
+MGI:1202301,Itch,"itchy, E3 ubiquitin protein ligase",2,,negative regulation of JNK cascade,,,IMP,,J:131809 
+MGI:3045305,Klhl31,kelch-like 31,9,,negative regulation of JNK cascade,,,IBA,PTN000697866 ,J:265628 
+MGI:3045305,Klhl31,kelch-like 31,9,,negative regulation of JNK cascade,,,ISO,Q9H511 ,J:164563 
+MGI:96795,Lmnb1,lamin B1,18,,positive regulation of JNK cascade,,,NAS,,J:169987 
+MGI:1913975,Lrrk2,leucine-rich repeat kinase 2,15,,JNK cascade,,,ISO,Q5S007 ,J:164563 
+MGI:104875,Ltbr,lymphotoxin B receptor,6,,positive regulation of JNK cascade,,,ISO,P36941 ,J:164563 
+MGI:1346869,Map2k4,mitogen-activated protein kinase kinase 4,11,,JNK cascade,,,ISO,RGD:1307040 ,J:155856 
+MGI:1346869,Map2k4,mitogen-activated protein kinase kinase 4,11,,JNK cascade,,,ISO,Q9DGR7 ,J:137475 
+MGI:1346869,Map2k4,mitogen-activated protein kinase kinase 4,11,,positive regulation of JNK cascade,,,ISO,RGD:1307040 ,J:155856 
+MGI:1346871,Map2k7,mitogen-activated protein kinase kinase 7,8,,JNK cascade,,,IDA,,J:77617 
+MGI:1346871,Map2k7,mitogen-activated protein kinase kinase 7,8,,JNK cascade,,,ISO,RGD:1560043 ,J:155856 
+MGI:1346871,Map2k7,mitogen-activated protein kinase kinase 7,8,,positive regulation of JNK cascade,,,IDA,,J:44734 
+MGI:1346871,Map2k7,mitogen-activated protein kinase kinase 7,8,,positive regulation of JNK cascade,,,ISO,RGD:1560043 ,J:155856 
+MGI:1346872,Map3k1,mitogen-activated protein kinase kinase kinase 1,13,,JNK cascade,,,IDA,,J:88294 
+MGI:1346872,Map3k1,mitogen-activated protein kinase kinase kinase 1,13,,positive regulation of JNK cascade,,,ISO,RGD:620966 ,J:155856 
+MGI:1346876,Map3k5,mitogen-activated protein kinase kinase kinase 5,10,,JNK cascade,,,ISO,RGD:1306565 ,J:155856 
+MGI:1346876,Map3k5,mitogen-activated protein kinase kinase kinase 5,10,,JNK cascade,,,ISO,Q99683 ,J:164563 
+MGI:1346876,Map3k5,mitogen-activated protein kinase kinase kinase 5,10,,positive regulation of JNK cascade,is a part of response to endoplasmic reticulum stress,,IMP,,J:218004 
+MGI:1346877,Map3k7,mitogen-activated protein kinase kinase kinase 7,4,,JNK cascade,,,IBA,PTN000723805 ,J:265628 
+MGI:1346877,Map3k7,mitogen-activated protein kinase kinase kinase 7,4,,JNK cascade,,,IDA,,J:262344 
+MGI:1346877,Map3k7,mitogen-activated protein kinase kinase kinase 7,4,,JNK cascade,happens in fibroblast,,IGI,MGI:104798 ,J:102721 
+MGI:1346877,Map3k7,mitogen-activated protein kinase kinase kinase 7,4,,JNK cascade,happens in fibroblast,,IGI,MGI:96536 ,J:102721 
+MGI:1346877,Map3k7,mitogen-activated protein kinase kinase kinase 7,4,,JNK cascade,happens in fibroblast,,IGI,MGI:96824 ,J:102721 
+MGI:1346877,Map3k7,mitogen-activated protein kinase kinase kinase 7,4,,JNK cascade,,,ISO,O43318 ,J:164563 
+MGI:1346877,Map3k7,mitogen-activated protein kinase kinase kinase 7,4,,positive regulation of JNK cascade,positively regulates JNK cascade,,IGI,MGI:104798 ,J:102721 
+MGI:1346877,Map3k7,mitogen-activated protein kinase kinase kinase 7,4,,positive regulation of JNK cascade,positively regulates JNK cascade,,IGI,MGI:96536 ,J:102721 
+MGI:1346877,Map3k7,mitogen-activated protein kinase kinase kinase 7,4,,positive regulation of JNK cascade,positively regulates JNK cascade,,IGI,MGI:96824 ,J:102721 
+MGI:1346879,Map3k10,mitogen-activated protein kinase kinase kinase 10,7,,positive regulation of JNK cascade,,,ISO,Q02779 ,J:164563 
+MGI:1346880,Map3k11,mitogen-activated protein kinase kinase kinase 11,19,,JNK cascade,,,ISO,RGD:1359261 ,J:155856 
+MGI:1346880,Map3k11,mitogen-activated protein kinase kinase kinase 11,19,,JNK cascade,,,ISO,Q16584 ,J:164563 
+MGI:1346880,Map3k11,mitogen-activated protein kinase kinase kinase 11,19,,positive regulation of JNK cascade,,,ISO,RGD:1359261 ,J:155856 
+MGI:1346880,Map3k11,mitogen-activated protein kinase kinase kinase 11,19,,positive regulation of JNK cascade,,,ISO,Q16584 ,J:164563 
+MGI:1346881,Map3k12,mitogen-activated protein kinase kinase kinase 12,15,,JNK cascade,happens in neuron,,IMP,,J:236918 
+MGI:2444243,Map3k13,mitogen-activated protein kinase kinase kinase 13,16,,JNK cascade,,,IBA,PTN002892804 ,J:265628 
+MGI:2444243,Map3k13,mitogen-activated protein kinase kinase kinase 13,16,,JNK cascade,happens in neuron,,IMP,,J:236918 
+MGI:2444243,Map3k13,mitogen-activated protein kinase kinase kinase 13,16,,JNK cascade,,,ISO,O43283 ,J:164563 
+MGI:2443258,Map3k20,mitogen-activated protein kinase kinase kinase 20,2,,JNK cascade,,,IMP,,J:241322 
+MGI:2443258,Map3k20,mitogen-activated protein kinase kinase kinase 20,2,,JNK cascade,,,ISO,Q9NYL2 ,J:164563 
+MGI:1346882,Map4k1,mitogen-activated protein kinase kinase kinase kinase 1,7,,JNK cascade,,,ISO,Q92918 ,J:164563 
+MGI:1346883,Map4k2,mitogen-activated protein kinase kinase kinase kinase 2,19,,positive regulation of JNK cascade,,,ISO,Q12851 ,J:164563 
+MGI:1349394,Map4k4,mitogen-activated protein kinase kinase kinase kinase 4,1,,positive regulation of JNK cascade,,,IDA,,J:39300 
+MGI:1349394,Map4k4,mitogen-activated protein kinase kinase kinase kinase 4,1,,regulation of JNK cascade,,,ISO,O95819 ,J:164563 
+MGI:1346861,Mapk8,mitogen-activated protein kinase 8,14,,JNK cascade,,,IBA,PTN001171982 ,J:265628 
+MGI:1346861,Mapk8,mitogen-activated protein kinase 8,14,,JNK cascade,,,IDA,,J:61895 
+MGI:1346861,Mapk8,mitogen-activated protein kinase 8,14,,JNK cascade,,,ISO,P45983 ,J:164563 
+MGI:1346861,Mapk8,mitogen-activated protein kinase 8,14,,JNK cascade,,,ISO,Q9DGD9 ,J:137475 
+MGI:1346861,Mapk8,mitogen-activated protein kinase 8,14,,JUN phosphorylation,happens in fibroblast,,IMP,MGI:2384141 ,J:88294 
+MGI:1346861,Mapk8,mitogen-activated protein kinase 8,14,,JUN phosphorylation,,,ISO,P45983 ,J:73065 
+MGI:1309464,Mapk8ip1,mitogen-activated protein kinase 8 interacting protein 1,2,,JNK cascade,,,IBA,PTN000881520 ,J:265628 
+MGI:1309464,Mapk8ip1,mitogen-activated protein kinase 8 interacting protein 1,2,,JUN phosphorylation,,,IDA,,J:50502 
+MGI:1309464,Mapk8ip1,mitogen-activated protein kinase 8 interacting protein 1,2,,negative regulation of JNK cascade,,,ISO,RGD:70937 ,J:155856 
+MGI:1309464,Mapk8ip1,mitogen-activated protein kinase 8 interacting protein 1,2,,negative regulation of JUN kinase activity,,,ISO,RGD:70937 ,J:155856 
+MGI:1309464,Mapk8ip1,mitogen-activated protein kinase 8 interacting protein 1,2,,positive regulation of JNK cascade,,,IMP,,J:205863 
+MGI:1309464,Mapk8ip1,mitogen-activated protein kinase 8 interacting protein 1,2,,regulation of JNK cascade,,,IMP,,J:77616 
+MGI:1926555,Mapk8ip2,mitogen-activated protein kinase 8 interacting protein 2,15,,JNK cascade,,,IBA,PTN000881520 ,J:265628 
+MGI:1926555,Mapk8ip2,mitogen-activated protein kinase 8 interacting protein 2,15,,JNK cascade,,,IDA,,J:63942 
+MGI:1926555,Mapk8ip2,mitogen-activated protein kinase 8 interacting protein 2,15,,regulation of JNK cascade,,,ISO,Q13387 ,J:164563 
+MGI:1353598,Mapk8ip3,mitogen-activated protein kinase 8 interacting protein 3,17,,JNK cascade,,,IDA,,J:59878 
+MGI:1353598,Mapk8ip3,mitogen-activated protein kinase 8 interacting protein 3,17,,positive regulation of JNK cascade,,,ISO,RGD:1563691 ,J:155856 
+MGI:1353598,Mapk8ip3,mitogen-activated protein kinase 8 interacting protein 3,17,,regulation of JNK cascade,,,IDA,,J:59878 
+MGI:1346862,Mapk9,mitogen-activated protein kinase 9,11,,JNK cascade,,,IBA,PTN001171982 ,J:265628 
+MGI:1346862,Mapk9,mitogen-activated protein kinase 9,11,,JNK cascade,,,ISO,RGD:628847 ,J:155856 
+MGI:1346862,Mapk9,mitogen-activated protein kinase 9,11,,JNK cascade,,,ISO,P45984 ,J:164563 
+MGI:1346862,Mapk9,mitogen-activated protein kinase 9,11,,JNK cascade,,,ISS,Q91Y86 ,J:61895 
+MGI:1346862,Mapk9,mitogen-activated protein kinase 9,11,,JUN phosphorylation,,,ISO,RGD:628847 ,J:155856 
+MGI:1346862,Mapk9,mitogen-activated protein kinase 9,11,,regulation of JNK cascade,,,ISO,RGD:628847 ,J:155856 
+MGI:1346863,Mapk10,mitogen-activated protein kinase 10,5,,JNK cascade,,,IBA,PTN001171982 ,J:265628 
+MGI:1346863,Mapk10,mitogen-activated protein kinase 10,5,,JNK cascade,,,IDA,,J:43658 
+MGI:1346863,Mapk10,mitogen-activated protein kinase 10,5,,JNK cascade,,,ISO,RGD:3663 ,J:155856 
+MGI:1346863,Mapk10,mitogen-activated protein kinase 10,5,,JUN phosphorylation,,,ISO,RGD:3663 ,J:155856 
+MGI:1347004,Mapkbp1,mitogen-activated protein kinase binding protein 1,2,,positive regulation of JNK cascade,,,IBA,PTN002894181 ,J:265628 
+MGI:1347004,Mapkbp1,mitogen-activated protein kinase binding protein 1,2,,positive regulation of JNK cascade,,,IDA,,J:57455 
+MGI:1920858,Marveld3,MARVEL (membrane-associating) domain containing 3,8,,negative regulation of JNK cascade,,,ISO,Q96A59 ,J:73065 
+MGI:1918320,Mbip,MAP3K12 binding inhibitory protein 1,12,,positive regulation of JNK cascade,,,ISO,Q9NS73 ,J:164563 
+MGI:107687,Mdfi,MyoD family inhibitor,17,,regulation of JNK cascade,,,IDA,,J:159078 
+MGI:104611,Mdfic,MyoD family inhibitor domain containing,6,,regulation of JNK cascade,,,ISO,Q9P1T7 ,J:164563 
+MGI:95457,Mecom,MDS1 and EVI1 complex locus,3,,negative regulation of JNK cascade,,,ISO,Q03112 ,J:164563 
+MGI:1316736,Men1,multiple endocrine neoplasia 1,19,,negative regulation of JNK cascade,,,ISO,O00255 ,J:164563 
+MGI:1098644,Mfhas1,malignant fibrous histiocytoma amplified sequence 1,8,,positive regulation of JNK cascade,,,ISO,Q9Y4C4 ,J:164563 
+MGI:1355329,Mink1,misshapen-like kinase 1 (zebrafish),11,,positive regulation of JNK cascade,,,IDA,,J:60996 
+MGI:1355329,Mink1,misshapen-like kinase 1 (zebrafish),11,,positive regulation of JNK cascade,,,ISO,Q8N4C8 ,J:164563 
+MGI:1202395,Mmp8,matrix metallopeptidase 8,9,,positive regulation of JNK cascade,"is a part of positive regulation of microglial cell activation,is a part of cellular response to lipopolysaccharide",,IMP,,J:265613 
+MGI:1915485,Mturn,"maturin, neural progenitor differentiation regulator homolog (Xenopus)",6,,positive regulation of JNK cascade,,,ISO,Q8N3F0 ,J:164563 
+MGI:108005,Myd88,myeloid differentiation primary response gene 88,9,,JNK cascade,happens in fibroblast,,IMP,MGI:2385681 ,J:84679 
+MGI:108005,Myd88,myeloid differentiation primary response gene 88,9,,JNK cascade,,,ISO,RGD:735043 ,J:155856 
+MGI:108005,Myd88,myeloid differentiation primary response gene 88,9,,positive regulation of JNK cascade,positively regulates JNK cascade,,IMP,MGI:2385681 ,J:84679 
+MGI:1298223,Naip1,"NLR family, apoptosis inhibitory protein 1",13,,positive regulation of JNK cascade,,,ISO,Q13075 ,J:164563 
+MGI:1298226,Naip2,"NLR family, apoptosis inhibitory protein 2",13,,positive regulation of JNK cascade,,,ISO,Q13075 ,J:164563 
+MGI:1298220,Naip5,"NLR family, apoptosis inhibitory protein 5",13,,positive regulation of JNK cascade,,,ISO,Q13075 ,J:164563 
+MGI:1298222,Naip6,"NLR family, apoptosis inhibitory protein 6",13,,positive regulation of JNK cascade,,,ISO,Q13075 ,J:164563 
+MGI:1858256,Naip7,"NLR family, apoptosis inhibitory protein 7",13,,positive regulation of JNK cascade,,,ISO,Q13075 ,J:164563 
+MGI:1349717,Ncor1,nuclear receptor co-repressor 1,11,,negative regulation of JNK cascade,,,ISO,O75376 ,J:164563 
+MGI:97312,Nfkb1,"nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105",3,,JNK cascade,is a part of cellular response to virus,,IMP,,J:141299 
+MGI:1341839,Nod1,nucleotide-binding oligomerization domain containing 1,6,,JNK cascade,happens in macrophage,,IDA,,J:132126 
+MGI:1341839,Nod1,nucleotide-binding oligomerization domain containing 1,6,,positive regulation of JNK cascade,positively regulates JNK cascade,,IDA,,J:132126 
+MGI:2429397,Nod2,nucleotide-binding oligomerization domain containing 2,8,,JNK cascade,happens in macrophage,,IDA,,J:132126 
+MGI:2429397,Nod2,nucleotide-binding oligomerization domain containing 2,8,,positive regulation of JNK cascade,positively regulates JNK cascade,,IDA,,J:132126 
+MGI:2429397,Nod2,nucleotide-binding oligomerization domain containing 2,8,,positive regulation of JNK cascade,,,ISO,Q9HC29 ,J:117799 
+MGI:2450016,Nox1,NADPH oxidase 1,X,,JNK cascade,"happens in endothelial cell,happens in lung",,IMP,MGI:3616995 ,J:167959 
+MGI:2450016,Nox1,NADPH oxidase 1,X,,positive regulation of JNK cascade,positively regulates JNK cascade,,IMP,MGI:3616995 ,J:167959 
+MGI:1859637,Nphs1,"nephrosis 1, nephrin",7,,JNK cascade,,,IDA,,J:73411 
+MGI:97367,Nppa,natriuretic peptide type A,4,,negative regulation of JUN kinase activity,,,ISO,P01160 ,J:164563 
+MGI:2183436,Nrbp1,nuclear receptor binding protein 1,5,NOT,JNK cascade,,,ISO,AF113249 ,J:76031 
+MGI:1351326,Nrk,Nik related kinase,X,,positive regulation of JNK cascade,,,IDA,,J:63297 
+MGI:109520,Pafah1b1,"platelet-activating factor acetylhydrolase, isoform 1b, subunit 1",11,,JNK cascade,happens in osteoclast,,IGI,MGI:1100089 ,J:180994 
+MGI:109520,Pafah1b1,"platelet-activating factor acetylhydrolase, isoform 1b, subunit 1",11,,negative regulation of JNK cascade,negatively regulates JNK cascade,,IGI,MGI:1100089 ,J:180994 
+MGI:1098283,Per1,period circadian clock 1,11,,negative regulation of JNK cascade,,,ISO,RGD:727863 ,J:155856 
+MGI:2138327,Phlpp1,PH domain and leucine rich repeat protein phosphatase 1,1,,regulation of JNK cascade,,,ISO,O60346 ,J:164563 
+MGI:2159342,Pja2,praja ring finger ubiquitin ligase 2,17,,positive regulation of JNK cascade,,,ISO,O43164 ,J:164563 
+MGI:97613,Plcb1,"phospholipase C, beta 1",2,,positive regulation of JNK cascade,,,ISO,Q9NQ66 ,J:164563 
+MGI:107846,Prmt1,protein arginine N-methyltransferase 1,7,,negative regulation of JNK cascade,,,ISO,Q99873 ,J:164563 
+MGI:104311,Ptger4,prostaglandin E receptor 4 (subtype EP4),15,,JNK cascade,,,ISO,RGD:628641 ,J:155856 
+MGI:95481,Ptk2,PTK2 protein tyrosine kinase 2,15,,JNK cascade,,,ISO,RGD:3443 ,J:155856 
+MGI:104908,Ptk2b,PTK2 protein tyrosine kinase 2 beta,14,,positive regulation of JNK cascade,,,ISO,Q14289 ,J:164563 
+MGI:107170,Ptpn22,"protein tyrosine phosphatase, non-receptor type 22 (lymphoid)",3,,negative regulation of JUN kinase activity,,,ISO,Q9Y2R2 ,J:164563 
+MGI:1931465,Pycard,PYD and CARD domain containing,7,,positive regulation of JNK cascade,,,ISO,Q9ULZ3 ,J:164563 
+MGI:97855,Rap2a,RAS related protein 2a,14,,regulation of JNK cascade,,,ISO,P10114 ,J:164563 
+MGI:104580,Rapgef1,Rap guanine nucleotide exchange factor (GEF) 1,2,,regulation of JNK cascade,,,ISO,RGD:619793 ,J:155856 
+MGI:1314635,Rasgrp1,RAS guanyl releasing protein 1,2,,positive regulation of JNK cascade,,,ISO,O95267 ,J:164563 
+MGI:2442060,Rassf2,Ras association (RalGDS/AF-6) domain family member 2,2,,positive regulation of JNK cascade,,,IBA,PTN002733295 ,J:265628 
+MGI:2442060,Rassf2,Ras association (RalGDS/AF-6) domain family member 2,2,,positive regulation of JNK cascade,,,ISO,P50749 ,J:156774 
+MGI:1341850,Rb1cc1,RB1-inducible coiled-coil 1,1,,positive regulation of JNK cascade,,,IGI,MGI:104798 ,J:114498 
+MGI:108212,Ripk1,receptor (TNFRSF)-interacting serine-threonine kinase 1,13,,positive regulation of JNK cascade,,,IMP,,J:180557 
+MGI:108212,Ripk1,receptor (TNFRSF)-interacting serine-threonine kinase 1,13,,positive regulation of JNK cascade,,,ISO,Q13546 ,J:164563 
+MGI:1891456,Ripk2,receptor (TNFRSF)-interacting serine-threonine kinase 2,4,,JNK cascade,happens in macrophage,,IMP,MGI:2446070 ,J:75401 
+MGI:1891456,Ripk2,receptor (TNFRSF)-interacting serine-threonine kinase 2,4,,JNK cascade,happens in macrophage,,IMP,MGI:2660793 ,J:132126 
+MGI:1891456,Ripk2,receptor (TNFRSF)-interacting serine-threonine kinase 2,4,,JNK cascade,happens in macrophage,,IMP,MGI:2660793 ,J:75400 
+MGI:1891456,Ripk2,receptor (TNFRSF)-interacting serine-threonine kinase 2,4,,positive regulation of JNK cascade,positively regulates JNK cascade,,IMP,MGI:2446070 ,J:75401 
+MGI:1891456,Ripk2,receptor (TNFRSF)-interacting serine-threonine kinase 2,4,,positive regulation of JNK cascade,positively regulates JNK cascade,,IMP,MGI:2660793 ,J:132126 
+MGI:1891456,Ripk2,receptor (TNFRSF)-interacting serine-threonine kinase 2,4,,positive regulation of JNK cascade,positively regulates JNK cascade,,IMP,MGI:2660793 ,J:75400 
+MGI:1347521,Ror2,receptor tyrosine kinase-like orphan receptor 2,13,,JNK cascade,,,IDA,,J:89972 
+MGI:107173,Serpinf2,"serine (or cysteine) peptidase inhibitor, clade F, member 2",11,,positive regulation of JNK cascade,,,ISO,P08697 ,J:164563 
+MGI:892014,Sfrp1,secreted frizzled-related protein 1,8,,negative regulation of JUN kinase activity,negatively regulates JUN kinase activity,,IGI,MGI:108078 ,J:147041 
+MGI:892014,Sfrp1,secreted frizzled-related protein 1,8,,negative regulation of JUN kinase activity,negatively regulates JUN kinase activity,,IGI,MGI:1860298 ,J:147041 
+MGI:108078,Sfrp2,secreted frizzled-related protein 2,3,,negative regulation of JUN kinase activity,negatively regulates JUN kinase activity,,IGI,MGI:1860298 ,J:147041 
+MGI:108078,Sfrp2,secreted frizzled-related protein 2,3,,negative regulation of JUN kinase activity,negatively regulates JUN kinase activity,,IGI,MGI:892014 ,J:147041 
+MGI:892010,Sfrp4,secreted frizzled-related protein 4,13,,negative regulation of JNK cascade,,,ISO,RGD:621075 ,J:155856 
+MGI:1860298,Sfrp5,secreted frizzled-related sequence protein 5,19,,negative regulation of JUN kinase activity,negatively regulates JUN kinase activity,,IGI,MGI:108078 ,J:147041 
+MGI:1860298,Sfrp5,secreted frizzled-related sequence protein 5,19,,negative regulation of JUN kinase activity,negatively regulates JUN kinase activity,,IGI,MGI:892014 ,J:147041 
+MGI:1913066,Sh3rf1,SH3 domain containing ring finger 1,8,,positive regulation of JNK cascade,,,IBA,PTN000070286 ,J:265628 
+MGI:1913066,Sh3rf1,SH3 domain containing ring finger 1,8,,positive regulation of JNK cascade,,,IMP,,J:205863 
+MGI:1913066,Sh3rf1,SH3 domain containing ring finger 1,8,,positive regulation of JNK cascade,,,IMP,,J:261832 
+MGI:2444628,Sh3rf2,SH3 domain containing ring finger 2,18,,negative regulation of JNK cascade,,,ISO,RGD:1308415 ,J:155856 
+MGI:2444628,Sh3rf2,SH3 domain containing ring finger 2,18,,positive regulation of JNK cascade,,,IBA,PTN000070286 ,J:265628 
+MGI:2444628,Sh3rf2,SH3 domain containing ring finger 2,18,,positive regulation of JNK cascade,,,ISO,Q8TEC5 ,J:164563 
+MGI:2444637,Sh3rf3,SH3 domain containing ring finger 3,10,,positive regulation of JNK cascade,,,IBA,PTN000070286 ,J:265628 
+MGI:2444637,Sh3rf3,SH3 domain containing ring finger 3,10,,positive regulation of JNK cascade,,,ISO,Q8TEJ3 ,J:164563 
+MGI:108563,Sirpa,signal-regulatory protein alpha,2,,negative regulation of JNK cascade,"happens in macrophage,regulates a function/process that happens in macrophage,is a part of cellular response to lipopolysaccharide",,IMP,,J:126125 
+MGI:1351314,Slamf1,signaling lymphocytic activation molecule family member 1,1,,positive regulation of JNK cascade,,,ISO,Q13291 ,J:164563 
+MGI:1201674,Smad3,SMAD family member 3,9,,JNK cascade,is a part of cellular response to virus,,IMP,,J:141299 
+MGI:1918084,Spag9,sperm associated antigen 9,11,,JNK cascade,,PR:Q58A65-2,IDA,,J:165016 
+MGI:1928487,Stk3,serine/threonine kinase 3,15,,JNK cascade,"happens in hepatocyte,happens in liver",,IGI,MGI:104798 ,J:156541 
+MGI:1928487,Stk3,serine/threonine kinase 3,15,,JNK cascade,"happens in hepatocyte,happens in liver",,IGI,MGI:1929004 ,J:156541 
+MGI:1928487,Stk3,serine/threonine kinase 3,15,,positive regulation of JNK cascade,positively regulates JNK cascade,,IGI,MGI:104798 ,J:156541 
+MGI:1928487,Stk3,serine/threonine kinase 3,15,,positive regulation of JNK cascade,positively regulates JNK cascade,,IGI,MGI:1929004 ,J:156541 
+MGI:2144047,Stradb,STE20-related kinase adaptor beta,1,,JNK cascade,,,IDA,,J:82945 
+MGI:1914490,Taok1,TAO kinase 1,11,,positive regulation of JNK cascade,,,ISO,Q7L7X3 ,J:164563 
+MGI:1915919,Taok2,TAO kinase 2,7,,positive regulation of JNK cascade,"happens in cerebral cortex neuron,happens in pyramidal neuron",,IMP,,J:191610 
+MGI:1915919,Taok2,TAO kinase 2,7,,positive regulation of JNK cascade,,,ISO,Q9UL54 ,J:164563 
+MGI:3041177,Taok3,TAO kinase 3,5,,negative regulation of JNK cascade,,,ISO,Q9H2K8 ,J:164563 
+MGI:3041177,Taok3,TAO kinase 3,5,,positive regulation of JNK cascade,,,ISO,Q9H2K8 ,J:164563 
+MGI:104637,Tgfbr3,"transforming growth factor, beta receptor III",5,NOT,regulation of JNK cascade,,,IMP,,J:83727 
+MGI:2152213,Tirap,toll-interleukin 1 receptor (TIR) domain-containing adaptor protein,9,,positive regulation of JNK cascade,,,ISO,P58753 ,J:164563 
+MGI:2156367,Tlr3,toll-like receptor 3,8,,JNK cascade,happens in fibroblast,,IDA,,J:102721 
+MGI:2156367,Tlr3,toll-like receptor 3,8,,JNK cascade,is a part of cellular response to virus,,IMP,,J:141299 
+MGI:2156367,Tlr3,toll-like receptor 3,8,,positive regulation of JNK cascade,positively regulates JNK cascade,,IDA,,J:102721 
+MGI:2156367,Tlr3,toll-like receptor 3,8,,positive regulation of JNK cascade,,,ISO,O15455 ,J:164563 
+MGI:96824,Tlr4,toll-like receptor 4,4,,JNK cascade,happens in fibroblast,,IDA,,J:102721 
+MGI:96824,Tlr4,toll-like receptor 4,4,,JNK cascade,happens in macrophage,,IDA,,J:132126 
+MGI:96824,Tlr4,toll-like receptor 4,4,,JNK cascade,happens in fibroblast,,IGI,MGI:1346877 ,J:102721 
+MGI:96824,Tlr4,toll-like receptor 4,4,,positive regulation of JNK cascade,positively regulates JNK cascade,,IDA,,J:102721 
+MGI:96824,Tlr4,toll-like receptor 4,4,,positive regulation of JNK cascade,positively regulates JNK cascade,,IDA,,J:132126 
+MGI:96824,Tlr4,toll-like receptor 4,4,,positive regulation of JNK cascade,positively regulates JNK cascade,,IGI,MGI:1346877 ,J:102721 
+MGI:2176882,Tlr7,toll-like receptor 7,X,,JNK cascade,is a part of cellular response to virus,,IMP,,J:141299 
+MGI:1932389,Tlr9,toll-like receptor 9,9,,positive regulation of JNK cascade,,,ISO,Q9NR96 ,J:164563 
+MGI:104798,Tnf,tumor necrosis factor,17,,JNK cascade,happens in fibroblast,,IDA,,J:102721 
+MGI:104798,Tnf,tumor necrosis factor,17,,JNK cascade,"happens in liver,happens in hepatocyte",,IDA,,J:156541 
+MGI:104798,Tnf,tumor necrosis factor,17,,JNK cascade,happens in fibroblast,,IGI,MGI:1341850 ,J:114498 
+MGI:104798,Tnf,tumor necrosis factor,17,,JNK cascade,happens in fibroblast,,IGI,MGI:1346877 ,J:102721 
+MGI:104798,Tnf,tumor necrosis factor,17,,positive regulation of JNK cascade,positively regulates JNK cascade,,IDA,,J:102721 
+MGI:104798,Tnf,tumor necrosis factor,17,,positive regulation of JNK cascade,positively regulates JNK cascade,,IDA,,J:156541 
+MGI:104798,Tnf,tumor necrosis factor,17,,positive regulation of JNK cascade,positively regulates JNK cascade,,IGI,MGI:1346877 ,J:102721 
+MGI:1352474,Tnfrsf19,"tumor necrosis factor receptor superfamily, member 19",14,,positive regulation of JNK cascade,,,IBA,PTN000950406 ,J:265628 
+MGI:1100089,Tnfsf11,"tumor necrosis factor (ligand) superfamily, member 11",14,,JNK cascade,happens in osteoclast,,IGI,MGI:109520 ,J:180994 
+MGI:1100089,Tnfsf11,"tumor necrosis factor (ligand) superfamily, member 11",14,,positive regulation of JNK cascade,positively regulates JNK cascade,,IGI,MGI:109520 ,J:180994 
+MGI:1916264,Tnik,TRAF2 and NCK interacting kinase,3,,positive regulation of JNK cascade,,,ISO,Q9UKE5 ,J:164563 
+MGI:98795,Tpbpa,trophoblast specific protein alpha,13,,JNK cascade,,,IDA,,J:148987 
+MGI:1298386,Tpd52l1,tumor protein D52-like 1,10,,positive regulation of JNK cascade,,,ISO,Q16890 ,J:164563 
+MGI:101835,Traf2,TNF receptor-associated factor 2,2,,regulation of JNK cascade,,,IDA,,J:86592 
+MGI:1202880,Traf4,TNF receptor associated factor 4,11,,positive regulation of JNK cascade,,,ISO,Q9BUZ4 ,J:164563 
+MGI:108072,Traf6,TNF receptor-associated factor 6,2,,JNK cascade,,,ISO,RGD:1306853 ,J:155856 
+MGI:2443397,Trib1,tribbles pseudokinase 1,15,,JNK cascade,,,ISO,Q96RU8 ,J:164563 
+MGI:1336991,Trp73,transformation related protein 73,4,,negative regulation of JUN kinase activity,,PR:Q9JJP2,IDA,,J:97170 
+MGI:1926945,Trpv4,"transient receptor potential cation channel, subfamily V, member 4",5,,positive regulation of JNK cascade,happens in fat cell,,IMP,,J:188264 
+MGI:1921622,Ulk4,unc-51-like kinase 4,9,,regulation of JNK cascade,,,ISO,Q96C45 ,J:73065 
+MGI:1923839,Unc5cl,unc-5 family C-terminal like,17,,positive regulation of JNK cascade,,,IBA,PTN000464368 ,J:265628 
+MGI:1923839,Unc5cl,unc-5 family C-terminal like,17,,positive regulation of JNK cascade,,,ISO,Q8IV45 ,J:73065 
+MGI:98958,Wnt5a,"wingless-type MMTV integration site family, member 5A",14,,JNK cascade,,,IDA,,J:89972 
+MGI:98958,Wnt5a,"wingless-type MMTV integration site family, member 5A",14,,positive regulation of JNK cascade,,,IMP,,J:162976 
+MGI:98961,Wnt7a,"wingless-type MMTV integration site family, member 7A",6,,positive regulation of JNK cascade,,,IBA,PTN000246687 ,J:265628 
+MGI:98961,Wnt7a,"wingless-type MMTV integration site family, member 7A",6,,positive regulation of JNK cascade,,,ISO,RGD:69079 ,J:155856 
+MGI:98962,Wnt7b,"wingless-type MMTV integration site family, member 7B",15,,positive regulation of JNK cascade,,,IBA,PTN000246687 ,J:265628 
+MGI:98962,Wnt7b,"wingless-type MMTV integration site family, member 7B",15,,positive regulation of JNK cascade,,,ISO,RGD:1311441 ,J:155856 
+MGI:2136018,Wnt16,"wingless-type MMTV integration site family, member 16",6,,positive regulation of JNK cascade,,,ISO,Q9UBV4 ,J:164563 
+MGI:1890378,Zfp110,zinc finger protein 110,7,,regulation of JNK cascade,,,IMP,,J:98749 
+MGI:1289282,Zfp622,zinc finger protein 622,15,,positive regulation of JNK cascade,,,ISO,Q969S3 ,J:164563 
+MGI:1913755,Zmynd11,"zinc finger, MYND domain containing 11",13,,negative regulation of JNK cascade,,,ISO,Q15326 ,J:164563 

@@ -1,0 +1,462 @@
+MGI Gene/Marker ID,Symbol,Name,Chr,Qualifier,Annotated Term,Context,Proteoform,Evidence,Inferred From,Reference(s)
+MGI:87859,Abl1,"c-abl oncogene 1, non-receptor tyrosine kinase",2,,canonical NF-kappaB signal transduction,happens in T cell,,IGI,MGI:87860 ,J:154821 
+MGI:87859,Abl1,"c-abl oncogene 1, non-receptor tyrosine kinase",2,,negative regulation of canonical NF-kappaB signal transduction,,,IMP,MGI:108086 ,J:153689 
+MGI:87859,Abl1,"c-abl oncogene 1, non-receptor tyrosine kinase",2,,positive regulation of canonical NF-kappaB signal transduction,"happens in T cell,positively regulates canonical NF-kappaB signal transduction",,IGI,MGI:87860 ,J:154821 
+MGI:87860,Abl2,"ABL proto-oncogene 2, non-receptor tyrosine kinase",1,,canonical NF-kappaB signal transduction,happens in T cell,,IGI,MGI:87859 ,J:154821 
+MGI:87860,Abl2,"ABL proto-oncogene 2, non-receptor tyrosine kinase",1,,positive regulation of canonical NF-kappaB signal transduction,"happens in T cell,positively regulates canonical NF-kappaB signal transduction",,IGI,MGI:87859 ,J:154821 
+MGI:106675,Adipoq,"adiponectin, C1Q and collagen domain containing",16,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,Q15848 ,J:164563 
+MGI:106675,Adipoq,"adiponectin, C1Q and collagen domain containing",16,,positive regulation of canonical NF-kappaB signal transduction,,,IDA,,J:93109 
+MGI:106675,Adipoq,"adiponectin, C1Q and collagen domain containing",16,,positive regulation of canonical NF-kappaB signal transduction,,,IDA,,J:93110 
+MGI:1341886,Ajuba,ajuba LIM protein,14,,canonical NF-kappaB signal transduction,happens in fibroblast,,IMP,,J:99125 
+MGI:1341886,Ajuba,ajuba LIM protein,14,,positive regulation of canonical NF-kappaB signal transduction,positively regulates canonical NF-kappaB signal transduction,,IMP,,J:99125 
+MGI:2676556,Akap13,A kinase anchor protein 13,7,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN002677811 ,J:265628 
+MGI:2676556,Akap13,A kinase anchor protein 13,7,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,RGD:727893 ,J:155856 
+MGI:2676556,Akap13,A kinase anchor protein 13,7,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q12802 ,J:164563 
+MGI:87986,Akt1,thymoma viral proto-oncogene 1,12,,canonical NF-kappaB signal transduction,,,ISO,P31749 ,J:164563 
+MGI:87986,Akt1,thymoma viral proto-oncogene 1,12,,positive regulation of I-kappaB phosphorylation,,,ISO,P31749 ,J:164563 
+MGI:1918731,Alpk1,alpha-kinase 1,3,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q96QP1 ,J:164563 
+MGI:108448,Angpt1,angiopoietin 1,15,,regulation of canonical NF-kappaB signal transduction,,,IGI,MGI:98664 ,J:157867 
+MGI:1932101,Ankrd17,ankyrin repeat domain 17,5,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,O75179 ,J:164563 
+MGI:99474,Arrb2,"arrestin, beta 2",11,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,P32121 ,J:164563 
+MGI:2183158,Ash1l,ASH1 like histone lysine methyltransferase,3,,canonical NF-kappaB signal transduction,happens in macrophage,,IMP,,J:208213 
+MGI:2183158,Ash1l,ASH1 like histone lysine methyltransferase,3,,negative regulation of canonical NF-kappaB signal transduction,negatively regulates canonical NF-kappaB signal transduction,,IMP,,J:208213 
+MGI:88123,Avpr2,arginine vasopressin receptor 2,X,,canonical NF-kappaB signal transduction,happens in fibroblast,,IMP,MGI:2384212 ,J:56156 
+MGI:1351332,Azi2,5-azacytidine induced gene 2,9,,canonical NF-kappaB signal transduction,,,IBA,PTN000374256 ,J:265628 
+MGI:1351332,Azi2,5-azacytidine induced gene 2,9,,canonical NF-kappaB signal transduction,,,IDA,,J:58756 
+MGI:88140,Bcl3,B cell leukemia/lymphoma 3,7,,canonical NF-kappaB signal transduction,,,ISO,P20749 ,J:164563 
+MGI:1337994,Bcl10,B cell leukemia/lymphoma 10,3,,canonical NF-kappaB signal transduction,,,IBA,PTN002858499 ,J:265628 
+MGI:1337994,Bcl10,B cell leukemia/lymphoma 10,3,,canonical NF-kappaB signal transduction,,,IMP,MGI:2158304 ,J:67297 
+MGI:1337994,Bcl10,B cell leukemia/lymphoma 10,3,,canonical NF-kappaB signal transduction,,,ISO,AF057700 ,J:54312 
+MGI:1337994,Bcl10,B cell leukemia/lymphoma 10,3,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,O95999 ,J:164563 
+MGI:1888520,Brd4,bromodomain containing 4,17,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,O60885 ,J:164563 
+MGI:88216,Btk,Bruton agammaglobulinemia tyrosine kinase,X,,canonical NF-kappaB signal transduction,,,IMP,MGI:1857138 ,J:86551 
+MGI:1338871,Btrc,beta-transducin repeat containing protein,19,,regulation of canonical NF-kappaB signal transduction,,,IMP,MGI:2669949 ,J:84639 
+MGI:1917562,Cactin,"cactin, spliceosome C complex subunit",10,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,Q8WUQ7 ,J:164563 
+MGI:107437,Capn3,calpain 3,2,,regulation of canonical NF-kappaB signal transduction,,,IMP,,J:180460 
+MGI:107437,Capn3,calpain 3,2,,regulation of canonical NF-kappaB signal transduction,,,ISO,P20807 ,J:164563 
+MGI:3032959,Card6,"caspase recruitment domain family, member 6",15,,regulation of canonical NF-kappaB signal transduction,,,ISA,AY196783 ,J:85109 
+MGI:2685628,Card9,"caspase recruitment domain family, member 9",2,,canonical NF-kappaB signal transduction,,,ISO,RGD:708370 ,J:155856 
+MGI:2685628,Card9,"caspase recruitment domain family, member 9",2,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN002684610 ,J:265628 
+MGI:1916978,Card11,"caspase recruitment domain family, member 11",5,,canonical NF-kappaB signal transduction,"happens in CD4-positive, alpha-beta T cell",,IMP,MGI:3039682 ,J:89322 
+MGI:1916978,Card11,"caspase recruitment domain family, member 11",5,,canonical NF-kappaB signal transduction,,,ISO,Q9BXL7 ,J:164563 
+MGI:1916978,Card11,"caspase recruitment domain family, member 11",5,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN000377524 ,J:265628 
+MGI:1916978,Card11,"caspase recruitment domain family, member 11",5,,positive regulation of canonical NF-kappaB signal transduction,positively regulates canonical NF-kappaB signal transduction,,IMP,MGI:3039682 ,J:89322 
+MGI:1916978,Card11,"caspase recruitment domain family, member 11",5,,positive regulation of canonical NF-kappaB signal transduction,,,IMP,,J:304570 
+MGI:1916978,Card11,"caspase recruitment domain family, member 11",5,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q9BXL7 ,J:164563 
+MGI:96544,Casp1,caspase 1,9,,positive regulation of canonical NF-kappaB signal transduction,,,IDA,,J:131152 
+MGI:96544,Casp1,caspase 1,9,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,P29466 ,J:164563 
+MGI:1261423,Casp8,caspase 8,1,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,Q14790 ,J:164563 
+MGI:1261423,Casp8,caspase 8,1,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q14790 ,J:164563 
+MGI:1859608,Ccdc22,coiled-coil domain containing 22,X,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,O60826 ,J:164563 
+MGI:1859608,Ccdc22,coiled-coil domain containing 22,X,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,O60826 ,J:164563 
+MGI:1346316,Ccl19,C-C motif chemokine ligand 19,4,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q99731 ,J:164563 
+MGI:1891387,Ccl19-ps1,"C-C motif chemokine ligand 19, pseudogene 1",4,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q99731 ,J:164563 
+MGI:1891391,Ccl19-ps3,"C-C motif chemokine ligand 19, pseudogene 3",4,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q99731 ,J:164563 
+MGI:3708691,Ccl19-ps4,"C-C motif chemokine ligand 19, pseudogene 4",4,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q99731 ,J:164563 
+MGI:3693096,Ccl19-ps5,"C-C motif chemokine ligand 19, pseudogene 5",4,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q99731 ,J:164563 
+MGI:5434459,Ccl19-ps6,"C-C motif chemokine ligand 19, pseudogene 6",4,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q99731 ,J:164563 
+MGI:1349183,Ccl21a,C-C motif chemokine ligand 21 (serine),4,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,O00585 ,J:164563 
+MGI:1349182,Ccl21b,C-C motif chemokine ligand 21B (leucine),4,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,O00585 ,J:164563 
+MGI:5434896,Ccl21d,C-C motif chemokine ligand 21D,4,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,O00585 ,J:164563 
+MGI:88335,Cd4,CD4 antigen,6,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,P01730 ,J:164563 
+MGI:107899,Cd36,CD36 molecule,5,,positive regulation of canonical NF-kappaB signal transduction,,,IMP,MGI:2447190 ,J:100140 
+MGI:88336,Cd40,CD40 antigen,2,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN005324942 ,J:265628 
+MGI:96534,Cd74,"CD74 antigen (invariant polypeptide of major histocompatibility complex, class II antigen-associated)",18,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,P04233 ,J:164563 
+MGI:99484,Chuk,conserved helix-loop-helix ubiquitous kinase,19,,canonical NF-kappaB signal transduction,happens in mammary gland,,IGI,MGI:1100089 ,J:90978 
+MGI:99484,Chuk,conserved helix-loop-helix ubiquitous kinase,19,,canonical NF-kappaB signal transduction,happens in mammary gland,,IMP,MGI:3045616 ,J:90978 
+MGI:99484,Chuk,conserved helix-loop-helix ubiquitous kinase,19,,canonical NF-kappaB signal transduction,,,ISO,O15111 ,J:164563 
+MGI:99484,Chuk,conserved helix-loop-helix ubiquitous kinase,19,,I-kappaB phosphorylation,,,TAS,,J:51176 
+MGI:99484,Chuk,conserved helix-loop-helix ubiquitous kinase,19,,positive regulation of canonical NF-kappaB signal transduction,positively regulates canonical NF-kappaB signal transduction,,IGI,MGI:1100089 ,J:90978 
+MGI:99484,Chuk,conserved helix-loop-helix ubiquitous kinase,19,,positive regulation of canonical NF-kappaB signal transduction,positively regulates canonical NF-kappaB signal transduction,,IMP,MGI:3045616 ,J:90978 
+MGI:99484,Chuk,conserved helix-loop-helix ubiquitous kinase,19,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,O15111 ,J:164563 
+MGI:1298389,Clec4d,"C-type lectin domain family 4, member d",6,,positive regulation of canonical NF-kappaB signal transduction,,,IMP,,J:208235 
+MGI:1861231,Clec4n,"C-type lectin domain family 4, member n",6,,positive regulation of canonical NF-kappaB signal transduction,,,IDA,,J:168200 
+MGI:1861431,Clec7a,"C-type lectin domain family 7, member a",6,,positive regulation of canonical NF-kappaB signal transduction,,,IDA,,J:90994 
+MGI:1861431,Clec7a,"C-type lectin domain family 7, member a",6,,regulation of canonical NF-kappaB signal transduction,"happens in dendritic cell,is a part of response to yeast",,IDA,,J:148372 
+MGI:2386621,Cpne1,copine I,2,,regulation of canonical NF-kappaB signal transduction,,,IBA,PTN002586632 ,J:265628 
+MGI:2386621,Cpne1,copine I,2,,regulation of canonical NF-kappaB signal transduction,,,ISO,Q99829 ,J:164563 
+MGI:1339968,Cth,cystathionine gamma lyase,3,,positive regulation of canonical NF-kappaB signal transduction,,,IMP,,J:179897 
+MGI:88276,Ctnnb1,catenin beta 1,9,,canonical NF-kappaB signal transduction,happens in integumental system,,IMP,,J:151982 
+MGI:88276,Ctnnb1,catenin beta 1,9,,positive regulation of canonical NF-kappaB signal transduction,positively regulates canonical NF-kappaB signal transduction,,IMP,,J:151982 
+MGI:1097153,Cx3cl1,C-X3-C motif chemokine ligand 1,8,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,RGD:620458 ,J:155856 
+MGI:1097153,Cx3cl1,C-X3-C motif chemokine ligand 1,8,,positive regulation of I-kappaB phosphorylation,,,ISO,P78423 ,J:164563 
+MGI:1333815,Cx3cr1,C-X3-C motif chemokine receptor 1,9,,positive regulation of I-kappaB phosphorylation,,,ISO,RGD:620137 ,J:155856 
+MGI:1916851,Dab2ip,disabled 2 interacting protein,2,,I-kappaB phosphorylation,,,IMP,,J:159941 
+MGI:1916851,Dab2ip,disabled 2 interacting protein,2,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,Q5VWQ8 ,J:164563 
+MGI:1916851,Dab2ip,disabled 2 interacting protein,2,,regulation of canonical NF-kappaB signal transduction,,,IMP,,J:159941 
+MGI:1924256,Ddrgk1,DDRGK domain containing 1,2,,positive regulation of I-kappaB phosphorylation,,,ISO,Q96HY6 ,J:164563 
+MGI:2144727,Ddx1,DEAD box helicase 1,12,,positive regulation of canonical NF-kappaB signal transduction,,,IMP,,J:173994 
+MGI:1860494,Ddx21,DExD box helicase 21,10,,positive regulation of canonical NF-kappaB signal transduction,,,IMP,,J:173994 
+MGI:3651158,Defb25,defensin beta 25,2,,canonical NF-kappaB signal transduction,,,IBA,PTN001030034 ,J:265628 
+MGI:3651158,Defb25,defensin beta 25,2,,canonical NF-kappaB signal transduction,,,ISO,Q8NES8 ,J:164563 
+MGI:1099786,Dhx15,DEAH-box helicase 15,5,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,O43143 ,J:164563 
+MGI:1919412,Dhx36,DEAH-box helicase 36,3,,positive regulation of canonical NF-kappaB signal transduction,,,IMP,,J:173994 
+MGI:1933786,Dnaja3,DnaJ heat shock protein family (Hsp40) member A3,16,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,Q96EY1 ,J:164563 
+MGI:1195272,Eda,ectodysplasin-A,X,,positive regulation of canonical NF-kappaB signal transduction,,,IMP,MGI:1856197 ,J:140329 
+MGI:2442860,Eda2r,ectodysplasin A2 receptor,X,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN000950406 ,J:265628 
+MGI:1343498,Edar,ectodysplasin-A receptor,10,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN000950406 ,J:265628 
+MGI:1931001,Edaradd,EDAR associated via death domain,13,,canonical NF-kappaB signal transduction,,,NAS,,J:75381 
+MGI:95283,Edn1,endothelin 1,13,,canonical NF-kappaB signal transduction,,,IDA,,J:293877 
+MGI:105923,Ednra,endothelin receptor type A,8,,canonical NF-kappaB signal transduction,,,IGI,MGI:102720 ,J:293877 
+MGI:102720,Ednrb,endothelin receptor type B,14,,canonical NF-kappaB signal transduction,,,IGI,MGI:105923 ,J:293877 
+MGI:1914544,Elp1,elongator complex protein 1,4,,I-kappaB phosphorylation,,,ISO,RGD:620072 ,J:155856 
+MGI:2151013,Erc1,ELKS/RAB6-interacting/CAST family member 1,6,,I-kappaB phosphorylation,,,ISO,Q8IUD2 ,J:164563 
+MGI:1352467,Esr1,estrogen receptor 1 (alpha),10,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,P03372 ,J:164563 
+MGI:101910,F2rl1,F2R like trypsin receptor 1,13,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,P55085 ,J:164563 
+MGI:101910,F2rl1,F2R like trypsin receptor 1,13,,regulation of canonical NF-kappaB signal transduction,,,ISO,P55085 ,J:164563 
+MGI:1344387,Faim,Fas apoptotic inhibitory molecule,9,,canonical NF-kappaB signal transduction,,,IBA,PTN000991624 ,J:265628 
+MGI:1344387,Faim,Fas apoptotic inhibitory molecule,9,,canonical NF-kappaB signal transduction,,,ISO,RGD:620572 ,J:155856 
+MGI:3647754,Faiml,Fas apoptotic inhibitory molecule like,9,,canonical NF-kappaB signal transduction,,,IBA,PTN000991624 ,J:265628 
+MGI:99255,Fasl,Fas ligand,1,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN002607446 ,J:265628 
+MGI:95602,Fyn,Fyn proto-oncogene,10,,canonical NF-kappaB signal transduction,happens in fat cell,,IGI,MGI:1927596 ,J:205618 
+MGI:95602,Fyn,Fyn proto-oncogene,10,,positive regulation of canonical NF-kappaB signal transduction,positively regulates canonical NF-kappaB signal transduction,,IGI,MGI:1927596 ,J:205618 
+MGI:95640,Gapdh,glyceraldehyde-3-phosphate dehydrogenase,6,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,P04406 ,J:164563 
+MGI:5434255,Gapdh-ps15,"glyceraldehyde-3-phosphate dehydrogenase, pseudogene 15",Y,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,P04406 ,J:164563 
+MGI:3782011,Gapdhrt,"glyceraldehyde-3-phosphate dehydrogenase, retrotransposed",14,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,P04406 ,J:164563 
+MGI:3708786,Gapdhrt2,"glyceraldehyde-3-phosphate dehydrogenase, retrotransposed 2",8,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,P04406 ,J:164563 
+MGI:1926263,Gbp3,guanylate binding protein 3,3,,regulation of canonical NF-kappaB signal transduction,,,ISO,Q8N8V2 ,J:164563 
+MGI:2444421,Gbp7,guanylate binding protein 7,3,,regulation of canonical NF-kappaB signal transduction,,,ISO,Q8N8V2 ,J:164563 
+MGI:1927596,Gprc5b,"G protein-coupled receptor, family C, group 5, member B",7,,canonical NF-kappaB signal transduction,happens in fat cell,,IGI,MGI:95602 ,J:205618 
+MGI:1927596,Gprc5b,"G protein-coupled receptor, family C, group 5, member B",7,,positive regulation of canonical NF-kappaB signal transduction,positively regulates canonical NF-kappaB signal transduction,,IGI,MGI:95602 ,J:205618 
+MGI:1927596,Gprc5b,"G protein-coupled receptor, family C, group 5, member B",7,,positive regulation of canonical NF-kappaB signal transduction,happens in white fat,,IMP,,J:205618 
+MGI:95865,Gstp1,"glutathione S-transferase, pi 1",19,,negative regulation of canonical NF-kappaB signal transduction,,,IDA,,J:172998 
+MGI:1889341,Hacd3,3-hydroxyacyl-CoA dehydratase 3,9,,canonical NF-kappaB signal transduction,,,IDA,,J:62736 
+MGI:108086,Hdac1,histone deacetylase 1,4,,negative regulation of canonical NF-kappaB signal transduction,,,IGI,MGI:87859 ,J:153689 
+MGI:96240,Hspb1,heat shock protein 1,5,,regulation of canonical NF-kappaB signal transduction,,,IDA,,J:173748 
+MGI:107729,Igtp,interferon gamma induced GTPase,11,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,A1A4Y4 ,J:164563 
+MGI:1338071,Ikbkb,inhibitor of kappaB kinase beta,8,,canonical NF-kappaB signal transduction,,,ISO,O14920 ,J:164563 
+MGI:1338071,Ikbkb,inhibitor of kappaB kinase beta,8,,I-kappaB phosphorylation,,,TAS,,J:51176 
+MGI:1338071,Ikbkb,inhibitor of kappaB kinase beta,8,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,O14920 ,J:164563 
+MGI:1338074,Ikbkg,inhibitor of kappaB kinase gamma,X,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN002835062 ,J:265628 
+MGI:1338074,Ikbkg,inhibitor of kappaB kinase gamma,X,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q9Y6K9 ,J:128397 
+MGI:1338074,Ikbkg,inhibitor of kappaB kinase gamma,X,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q9Y6K9 ,J:164563 
+MGI:96542,Il1a,interleukin 1 alpha,2,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,RGD:2890 ,J:155856 
+MGI:96543,Il1b,interleukin 1 beta,2,,canonical NF-kappaB signal transduction,happens in fibroblast,,IDA,,J:102721 
+MGI:96543,Il1b,interleukin 1 beta,2,,canonical NF-kappaB signal transduction,happens in fibroblast,,IGI,MGI:1346877 ,J:102721 
+MGI:96543,Il1b,interleukin 1 beta,2,,positive regulation of canonical NF-kappaB signal transduction,positively regulates canonical NF-kappaB signal transduction,,IDA,,J:102721 
+MGI:96543,Il1b,interleukin 1 beta,2,,positive regulation of canonical NF-kappaB signal transduction,positively regulates canonical NF-kappaB signal transduction,,IGI,MGI:1346877 ,J:102721 
+MGI:96543,Il1b,interleukin 1 beta,2,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,RGD:2891 ,J:155856 
+MGI:96543,Il1b,interleukin 1 beta,2,,regulation of canonical NF-kappaB signal transduction,,,ISO,P01584 ,J:164563 
+MGI:98427,Il1rl1,interleukin 1 receptor-like 1,1,,negative regulation of canonical NF-kappaB signal transduction,,PR:P14719-2,IDA,,J:124985 
+MGI:1921579,Inava,innate immunity activator,1,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q3KP66 ,J:164563 
+MGI:107420,Irak1,interleukin-1 receptor-associated kinase 1,X,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN001563231 ,J:265628 
+MGI:107420,Irak1,interleukin-1 receptor-associated kinase 1,X,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,P51617 ,J:73065 
+MGI:1929475,Irak1bp1,interleukin-1 receptor-associated kinase 1 binding protein 1,9,,canonical NF-kappaB signal transduction,,,IBA,PTN001050576 ,J:265628 
+MGI:1929475,Irak1bp1,interleukin-1 receptor-associated kinase 1 binding protein 1,9,,canonical NF-kappaB signal transduction,,,IDA,,J:67984 
+MGI:2429603,Irak2,interleukin-1 receptor-associated kinase 2,6,,canonical NF-kappaB signal transduction,,,ISO,O43187 ,J:164563 
+MGI:2182474,Irak4,interleukin-1 receptor-associated kinase 4,15,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN000701357 ,J:265628 
+MGI:2182474,Irak4,interleukin-1 receptor-associated kinase 4,15,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q9NWZ3 ,J:73065 
+MGI:96590,Irf1,interferon regulatory factor 1,11,,canonical NF-kappaB signal transduction,,,ISO,RGD:2920 ,J:155856 
+MGI:1859179,Irf3,interferon regulatory factor 3,7,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,RGD:1549774 ,J:155856 
+MGI:107567,Irgm1,immunity-related GTPase family M member 1,11,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,A1A4Y4 ,J:164563 
+MGI:1926262,Irgm2,immunity-related GTPase family M member 2,11,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,A1A4Y4 ,J:164563 
+MGI:1919356,Jmjd8,jumonji domain containing 8,17,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q96S16 ,J:164563 
+MGI:1915826,Lamtor5,"late endosomal/lysosomal adaptor, MAPK and MTOR activator 5",3,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,O43504 ,J:164563 
+MGI:102701,Lilrb4a,"leukocyte immunoglobulin-like receptor, subfamily B, member 4A",10,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,Q8NHJ6 ,J:164563 
+MGI:102702,Lilrb4b,"leukocyte immunoglobulin-like receptor, subfamily B, member 4B",10,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,Q8NHJ6 ,J:164563 
+MGI:1919949,Lime1,Lck interacting transmembrane adaptor 1,2,,regulation of canonical NF-kappaB signal transduction,,,IMP,,J:129312 
+MGI:104796,Ltb,lymphotoxin B,17,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN000158085 ,J:265628 
+MGI:104875,Ltbr,lymphotoxin B receptor,6,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN000559116 ,J:265628 
+MGI:96837,Ltf,lactotransferrin,9,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,P02788 ,J:164563 
+MGI:1915325,Lurap1,leucine rich adaptor protein 1,4,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN002853007 ,J:265628 
+MGI:1915325,Lurap1,leucine rich adaptor protein 1,4,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q96LR2 ,J:164563 
+MGI:106510,Lurap1l,leucine rich adaptor protein 1-like,4,,positive regulation of canonical NF-kappaB signal transduction,,,IEA,IPR037443 ,J:72247 
+MGI:2445027,Malt1,MALT1 paracaspase,18,,canonical NF-kappaB signal transduction,,,RCA,,J:84168 
+MGI:1346877,Map3k7,mitogen-activated protein kinase kinase kinase 7,4,,canonical NF-kappaB signal transduction,happens in fibroblast,,IGI,MGI:104798 ,J:102721 
+MGI:1346877,Map3k7,mitogen-activated protein kinase kinase kinase 7,4,,canonical NF-kappaB signal transduction,happens in fibroblast,,IGI,MGI:2156367 ,J:102721 
+MGI:1346877,Map3k7,mitogen-activated protein kinase kinase kinase 7,4,,canonical NF-kappaB signal transduction,happens in fibroblast,,IGI,MGI:96536 ,J:102721 
+MGI:1346877,Map3k7,mitogen-activated protein kinase kinase kinase 7,4,,canonical NF-kappaB signal transduction,,,ISO,O43318 ,J:164563 
+MGI:1346877,Map3k7,mitogen-activated protein kinase kinase kinase 7,4,,I-kappaB phosphorylation,happens in fibroblast,,IGI,MGI:104798 ,J:102721 
+MGI:1346877,Map3k7,mitogen-activated protein kinase kinase kinase 7,4,,I-kappaB phosphorylation,happens in fibroblast,,IGI,MGI:96536 ,J:102721 
+MGI:1346877,Map3k7,mitogen-activated protein kinase kinase kinase 7,4,,I-kappaB phosphorylation,,,ISO,O43318 ,J:164563 
+MGI:1346877,Map3k7,mitogen-activated protein kinase kinase kinase 7,4,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN000723805 ,J:265628 
+MGI:1346877,Map3k7,mitogen-activated protein kinase kinase kinase 7,4,,positive regulation of canonical NF-kappaB signal transduction,positively regulates canonical NF-kappaB signal transduction,,IGI,MGI:104798 ,J:102721 
+MGI:1346877,Map3k7,mitogen-activated protein kinase kinase kinase 7,4,,positive regulation of canonical NF-kappaB signal transduction,positively regulates canonical NF-kappaB signal transduction,,IGI,MGI:2156367 ,J:102721 
+MGI:1346877,Map3k7,mitogen-activated protein kinase kinase kinase 7,4,,positive regulation of canonical NF-kappaB signal transduction,positively regulates canonical NF-kappaB signal transduction,,IGI,MGI:96536 ,J:102721 
+MGI:1346877,Map3k7,mitogen-activated protein kinase kinase kinase 7,4,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,RGD:1309438 ,J:155856 
+MGI:1346877,Map3k7,mitogen-activated protein kinase kinase kinase 7,4,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,O43318 ,J:164563 
+MGI:1858204,Map3k14,mitogen-activated protein kinase kinase kinase 14,11,,canonical NF-kappaB signal transduction,,,IBA,PTN002807746 ,J:265628 
+MGI:1858204,Map3k14,mitogen-activated protein kinase kinase kinase 14,11,,canonical NF-kappaB signal transduction,,,IDA,,J:67738 
+MGI:1858204,Map3k14,mitogen-activated protein kinase kinase kinase 14,11,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q99558 ,J:164563 
+MGI:1347004,Mapkbp1,mitogen-activated protein kinase binding protein 1,2,,negative regulation of canonical NF-kappaB signal transduction,,,IBA,PTN002894181 ,J:265628 
+MGI:1347004,Mapkbp1,mitogen-activated protein kinase binding protein 1,2,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,O60336 ,J:164563 
+MGI:1344333,Mid2,midline 2,X,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q9UJV3 ,J:164563 
+MGI:1914404,Mtdh,metadherin,15,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q86UE4 ,J:164563 
+MGI:108005,Myd88,myeloid differentiation primary response gene 88,9,,canonical NF-kappaB signal transduction,happens in fibroblast,,IGI,MGI:2147032 ,J:84679 
+MGI:108005,Myd88,myeloid differentiation primary response gene 88,9,,canonical NF-kappaB signal transduction,happens in fibroblast,,IMP,MGI:2385681 ,J:84679 
+MGI:108005,Myd88,myeloid differentiation primary response gene 88,9,,positive regulation of canonical NF-kappaB signal transduction,positively regulates canonical NF-kappaB signal transduction,,IGI,MGI:2147032 ,J:84679 
+MGI:108005,Myd88,myeloid differentiation primary response gene 88,9,,positive regulation of canonical NF-kappaB signal transduction,positively regulates canonical NF-kappaB signal transduction,,IMP,MGI:2385681 ,J:84679 
+MGI:2667185,Myo18a,myosin XVIIIA,11,,canonical NF-kappaB signal transduction,,,ISO,O95411 ,J:164563 
+MGI:97312,Nfkb1,"nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105",3,,canonical NF-kappaB signal transduction,,,IBA,PTN000652441 ,J:265628 
+MGI:97312,Nfkb1,"nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105",3,,canonical NF-kappaB signal transduction,,,ISO,P19838 ,J:164563 
+MGI:1099800,Nfkb2,"nuclear factor of kappa light polypeptide gene enhancer in B cells 2, p49/p100",19,,canonical NF-kappaB signal transduction,,,IBA,PTN000652441 ,J:265628 
+MGI:104741,Nfkbia,"nuclear factor of kappa light polypeptide gene enhancer in B cells inhibitor, alpha",12,,canonical NF-kappaB signal transduction,,,ISO,P25963 ,J:164563 
+MGI:104752,Nfkbib,"nuclear factor of kappa light polypeptide gene enhancer in B cells inhibitor, beta",7,,regulation of canonical NF-kappaB signal transduction,happens in embryonic fibroblast,,IGI,MGI:1919216 ,J:277582 
+MGI:3041243,Nfkbid,"nuclear factor of kappa light polypeptide gene enhancer in B cells inhibitor, delta",7,,negative regulation of canonical NF-kappaB signal transduction,,,IDA,,J:75807 
+MGI:1340031,Nfkbil1,nuclear factor of kappa light polypeptide gene enhancer in B cells inhibitor like 1,17,,canonical NF-kappaB signal transduction,,,IBA,PTN001433346 ,J:265628 
+MGI:1340031,Nfkbil1,nuclear factor of kappa light polypeptide gene enhancer in B cells inhibitor like 1,17,,canonical NF-kappaB signal transduction,,,IDA,,J:180263 
+MGI:1916971,Nkiras1,NFKB inhibitor interacting Ras-like protein 1,14,,canonical NF-kappaB signal transduction,,,IEA,IPR042227 ,J:72247 
+MGI:1919216,Nkiras2,NFKB inhibitor interacting Ras-like protein 2,11,,canonical NF-kappaB signal transduction,,,IEA,IPR042227 ,J:72247 
+MGI:1919216,Nkiras2,NFKB inhibitor interacting Ras-like protein 2,11,,regulation of canonical NF-kappaB signal transduction,happens in embryonic fibroblast,,IGI,MGI:104752 ,J:277582 
+MGI:1919216,Nkiras2,NFKB inhibitor interacting Ras-like protein 2,11,,regulation of canonical NF-kappaB signal transduction,happens in embryonic fibroblast,,IMP,MGI:6342810 ,J:277582 
+MGI:2444070,Nlrc3,"NLR family, CARD domain containing 3",16,,canonical NF-kappaB signal transduction,happens in macrophage,,IGI,MGI:108072 ,J:187586 
+MGI:2444070,Nlrc3,"NLR family, CARD domain containing 3",16,,canonical NF-kappaB signal transduction,happens in monocyte,,IMP,,J:187586 
+MGI:2444070,Nlrc3,"NLR family, CARD domain containing 3",16,,canonical NF-kappaB signal transduction,,,ISO,Q7RTR2 ,J:164563 
+MGI:2444070,Nlrc3,"NLR family, CARD domain containing 3",16,,canonical NF-kappaB signal transduction,,,ISS,Q7RTR2 ,J:114713 
+MGI:2444070,Nlrc3,"NLR family, CARD domain containing 3",16,,negative regulation of canonical NF-kappaB signal transduction,,,IBA,PTN001946600 ,J:265628 
+MGI:2444070,Nlrc3,"NLR family, CARD domain containing 3",16,,negative regulation of canonical NF-kappaB signal transduction,negatively regulates canonical NF-kappaB signal transduction,,IGI,MGI:108072 ,J:187586 
+MGI:2444070,Nlrc3,"NLR family, CARD domain containing 3",16,,negative regulation of canonical NF-kappaB signal transduction,negatively regulates canonical NF-kappaB signal transduction,,IMP,,J:187586 
+MGI:2444070,Nlrc3,"NLR family, CARD domain containing 3",16,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,Q7RTR2 ,J:73065 
+MGI:2141990,Nlrp6,"NLR family, pyrin domain containing 6",7,,negative regulation of canonical NF-kappaB signal transduction,,,IMP,MGI:5085850 ,J:186698 
+MGI:2676630,Nlrp12,"NLR family, pyrin domain containing 12",7,,negative regulation of canonical NF-kappaB signal transduction,,,IBA,PTN000647998 ,J:265628 
+MGI:2676630,Nlrp12,"NLR family, pyrin domain containing 12",7,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,P59046 ,J:164563 
+MGI:2676630,Nlrp12,"NLR family, pyrin domain containing 12",7,,regulation of canonical NF-kappaB signal transduction,,,ISO,P59046 ,J:73065 
+MGI:2429611,Nlrx1,NLR family member X1,9,,negative regulation of canonical NF-kappaB signal transduction,,,IBA,PTN002789232 ,J:265628 
+MGI:2429611,Nlrx1,NLR family member X1,9,,negative regulation of canonical NF-kappaB signal transduction,,,IMP,MGI:5141085 ,J:173995 
+MGI:1341839,Nod1,nucleotide-binding oligomerization domain containing 1,6,,canonical NF-kappaB signal transduction,happens in macrophage,,IDA,,J:132126 
+MGI:1341839,Nod1,nucleotide-binding oligomerization domain containing 1,6,,positive regulation of canonical NF-kappaB signal transduction,positively regulates canonical NF-kappaB signal transduction,,IDA,,J:132126 
+MGI:1341839,Nod1,nucleotide-binding oligomerization domain containing 1,6,,positive regulation of canonical NF-kappaB signal transduction,,,IDA,,J:335612 
+MGI:1341839,Nod1,nucleotide-binding oligomerization domain containing 1,6,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q9Y239 ,J:73065 
+MGI:2429397,Nod2,nucleotide-binding oligomerization domain containing 2,8,,canonical NF-kappaB signal transduction,happens in macrophage,,IDA,,J:132126 
+MGI:2429397,Nod2,nucleotide-binding oligomerization domain containing 2,8,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN004670420 ,J:265628 
+MGI:2429397,Nod2,nucleotide-binding oligomerization domain containing 2,8,,positive regulation of canonical NF-kappaB signal transduction,positively regulates canonical NF-kappaB signal transduction,,IDA,,J:132126 
+MGI:2429397,Nod2,nucleotide-binding oligomerization domain containing 2,8,,positive regulation of canonical NF-kappaB signal transduction,,,IDA,,J:335612 
+MGI:2429397,Nod2,nucleotide-binding oligomerization domain containing 2,8,,positive regulation of canonical NF-kappaB signal transduction,,,IMP,,J:96128 
+MGI:2429397,Nod2,nucleotide-binding oligomerization domain containing 2,8,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q9HC29 ,J:73065 
+MGI:2444210,Nr1d1,"nuclear receptor subfamily 1, group D, member 1",11,,negative regulation of canonical NF-kappaB signal transduction,,,IMP,,J:273176 
+MGI:1352464,Nr1h4,"nuclear receptor subfamily 1, group H, member 4",10,,negative regulation of canonical NF-kappaB signal transduction,,,IMP,,J:228561 
+MGI:1352464,Nr1h4,"nuclear receptor subfamily 1, group H, member 4",10,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,Q96RI1 ,J:164563 
+MGI:1351500,Nup62,nucleoporin 62,7,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,P37198 ,J:164563 
+MGI:2685142,Olfm4,olfactomedin 4,14,,negative regulation of canonical NF-kappaB signal transduction,,,IDA,,J:161279 
+MGI:1918898,Optn,optineurin,2,,negative regulation of canonical NF-kappaB signal transduction,,,IMP,,J:128397 
+MGI:1918898,Optn,optineurin,2,,regulation of canonical NF-kappaB signal transduction,,,IBA,PTN001268347 ,J:265628 
+MGI:2654703,Otud7b,OTU domain containing 7B,3,,negative regulation of canonical NF-kappaB signal transduction,,,IMP,,J:194553 
+MGI:2654703,Otud7b,OTU domain containing 7B,3,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,Q6GQQ9 ,J:164563 
+MGI:1340806,Parp1,"poly (ADP-ribose) polymerase family, member 1",1,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,P09874 ,J:164563 
+MGI:1914495,Peli1,pellino 1,11,,positive regulation of canonical NF-kappaB signal transduction,,,IMP,MGI:4361448 ,J:152781 
+MGI:1098283,Per1,period circadian clock 1,11,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,RGD:727863 ,J:155856 
+MGI:1889507,Pidd1,p53 induced death domain protein 1,7,,regulation of canonical NF-kappaB signal transduction,,,ISO,Q9HB75 ,J:164563 
+MGI:1933177,Pik3ap1,phosphoinositide-3-kinase adaptor protein 1,19,NOT,regulation of canonical NF-kappaB signal transduction,,,IMP,,J:180127 
+MGI:97587,Pim2,proviral integration site 2,X,,positive regulation of canonical NF-kappaB signal transduction,,,IDA,,J:93995 
+MGI:1916193,Pink1,PTEN induced putative kinase 1,4,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q9BXM7 ,J:164563 
+MGI:97616,Plcg2,"phospholipase C, gamma 2",8,,positive regulation of I-kappaB phosphorylation,"happens in macrophage,is a part of regulation of canonical NF-kappaB signal transduction",,IMP,,J:178744 
+MGI:97616,Plcg2,"phospholipase C, gamma 2",8,,regulation of canonical NF-kappaB signal transduction,"happens in dendritic cell,is a part of cellular response to lectin",,IMP,,J:148372 
+MGI:97616,Plcg2,"phospholipase C, gamma 2",8,,regulation of canonical NF-kappaB signal transduction,"happens in macrophage,is a part of stimulatory C-type lectin receptor signaling pathway",,IMP,,J:178744 
+MGI:99878,Ppm1a,"protein phosphatase 1A, magnesium dependent, alpha isoform",12,,negative regulation of canonical NF-kappaB signal transduction,,,IBA,PTN001418787 ,J:265628 
+MGI:99878,Ppm1a,"protein phosphatase 1A, magnesium dependent, alpha isoform",12,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,P35813 ,J:164563 
+MGI:101841,Ppm1b,"protein phosphatase 1B, magnesium dependent, beta isoform",17,,negative regulation of canonical NF-kappaB signal transduction,,,IBA,PTN001418787 ,J:265628 
+MGI:101841,Ppm1b,"protein phosphatase 1B, magnesium dependent, beta isoform",17,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,O75688 ,J:164563 
+MGI:2142330,Ppm1n,"protein phosphatase, Mg2+/Mn2+ dependent, 1N (putative)",7,,negative regulation of canonical NF-kappaB signal transduction,,,IBA,PTN001418787 ,J:265628 
+MGI:97596,Prkcb,"protein kinase C, beta",7,,positive regulation of canonical NF-kappaB signal transduction,,,IMP,,J:109151 
+MGI:97599,Prkce,"protein kinase C, epsilon",17,,positive regulation of canonical NF-kappaB signal transduction,,,IMP,MGI:3609215 ,J:103337 
+MGI:99879,Prkd1,protein kinase D1,12,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q15139 ,J:164563 
+MGI:1355296,Prkn,parkin RBR E3 ubiquitin protein ligase,17,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,O60260 ,J:164563 
+MGI:1931465,Pycard,PYD and CARD domain containing,7,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,Q9ULZ3 ,J:164563 
+MGI:1344372,Rbck1,RanBP-type and C3HC4-type zinc finger containing 1,2,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN000752489 ,J:265628 
+MGI:1344372,Rbck1,RanBP-type and C3HC4-type zinc finger containing 1,2,,positive regulation of canonical NF-kappaB signal transduction,,,IMP,,J:158069 
+MGI:1344372,Rbck1,RanBP-type and C3HC4-type zinc finger containing 1,2,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q9BYM8 ,J:164563 
+MGI:97897,Rel,reticuloendotheliosis oncogene,11,,canonical NF-kappaB signal transduction,,,IBA,PTN000652441 ,J:265628 
+MGI:103290,Rela,v-rel reticuloendotheliosis viral oncogene homolog A (avian),19,,canonical NF-kappaB signal transduction,,,IBA,PTN000652441 ,J:265628 
+MGI:103290,Rela,v-rel reticuloendotheliosis viral oncogene homolog A (avian),19,,canonical NF-kappaB signal transduction,,,ISO,Q04206 ,J:164563 
+MGI:103290,Rela,v-rel reticuloendotheliosis viral oncogene homolog A (avian),19,,positive regulation of canonical NF-kappaB signal transduction,,,IDA,,J:179897 
+MGI:103289,Relb,avian reticuloendotheliosis viral (v-rel) oncogene related B,7,,canonical NF-kappaB signal transduction,,,IBA,PTN000652441 ,J:265628 
+MGI:2149590,Rfpl4,ret finger protein-like 4,7,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN008394630 ,J:265628 
+MGI:1096342,Rhoa,ras homolog family member A,9,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,RGD:619921 ,J:155856 
+MGI:1921984,Rhoh,ras homolog family member H,5,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,Q15669 ,J:164563 
+MGI:1914128,Riok3,RIO kinase 3,18,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,O14730 ,J:164563 
+MGI:108212,Ripk1,receptor (TNFRSF)-interacting serine-threonine kinase 1,13,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,Q13546 ,J:164563 
+MGI:108212,Ripk1,receptor (TNFRSF)-interacting serine-threonine kinase 1,13,,positive regulation of canonical NF-kappaB signal transduction,,,IMP,,J:202809 
+MGI:108212,Ripk1,receptor (TNFRSF)-interacting serine-threonine kinase 1,13,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q13546 ,J:164563 
+MGI:1891456,Ripk2,receptor (TNFRSF)-interacting serine-threonine kinase 2,4,,canonical NF-kappaB signal transduction,happens in macrophage,,IMP,MGI:2446070 ,J:75401 
+MGI:1891456,Ripk2,receptor (TNFRSF)-interacting serine-threonine kinase 2,4,,canonical NF-kappaB signal transduction,happens in macrophage,,IMP,MGI:2660793 ,J:132126 
+MGI:1891456,Ripk2,receptor (TNFRSF)-interacting serine-threonine kinase 2,4,,canonical NF-kappaB signal transduction,happens in macrophage,,IMP,MGI:2660793 ,J:75400 
+MGI:1891456,Ripk2,receptor (TNFRSF)-interacting serine-threonine kinase 2,4,,canonical NF-kappaB signal transduction,,,IMP,,J:175412 
+MGI:1891456,Ripk2,receptor (TNFRSF)-interacting serine-threonine kinase 2,4,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN002892800 ,J:265628 
+MGI:1891456,Ripk2,receptor (TNFRSF)-interacting serine-threonine kinase 2,4,,positive regulation of canonical NF-kappaB signal transduction,,,IDA,,J:335665 
+MGI:1891456,Ripk2,receptor (TNFRSF)-interacting serine-threonine kinase 2,4,,positive regulation of canonical NF-kappaB signal transduction,positively regulates canonical NF-kappaB signal transduction,,IMP,MGI:2446070 ,J:75401 
+MGI:1891456,Ripk2,receptor (TNFRSF)-interacting serine-threonine kinase 2,4,,positive regulation of canonical NF-kappaB signal transduction,positively regulates canonical NF-kappaB signal transduction,,IMP,MGI:2660793 ,J:132126 
+MGI:1891456,Ripk2,receptor (TNFRSF)-interacting serine-threonine kinase 2,4,,positive regulation of canonical NF-kappaB signal transduction,positively regulates canonical NF-kappaB signal transduction,,IMP,MGI:2660793 ,J:75400 
+MGI:1891456,Ripk2,receptor (TNFRSF)-interacting serine-threonine kinase 2,4,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,O43353 ,J:73065 
+MGI:2154952,Ripk3,receptor-interacting serine-threonine kinase 3,14,,canonical NF-kappaB signal transduction,,,IDA,,J:57772 
+MGI:1934704,Rnf31,ring finger protein 31,14,,positive regulation of canonical NF-kappaB signal transduction,,,IMP,,J:161997 
+MGI:1934704,Rnf31,ring finger protein 31,14,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q96EP0 ,J:164563 
+MGI:107927,Rock1,Rho-associated coiled-coil containing protein kinase 1,18,,canonical NF-kappaB signal transduction,,,ISO,Q13464 ,J:164563 
+MGI:107926,Rock2,Rho-associated coiled-coil containing protein kinase 2,12,,canonical NF-kappaB signal transduction,,,ISO,O75116 ,J:164563 
+MGI:1347520,Ror1,receptor tyrosine kinase-like orphan receptor 1,4,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN002814844 ,J:265628 
+MGI:1347520,Ror1,receptor tyrosine kinase-like orphan receptor 1,4,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q01973 ,J:164563 
+MGI:104661,Rora,RAR-related orphan receptor alpha,9,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,P35398 ,J:164563 
+MGI:1330282,S100a4,S100 calcium binding protein A4,3,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN000181518 ,J:265628 
+MGI:1330282,S100a4,S100 calcium binding protein A4,3,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,P26447 ,J:164563 
+MGI:109581,S100a13,S100 calcium binding protein A13,3,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN001360887 ,J:265628 
+MGI:109581,S100a13,S100 calcium binding protein A13,3,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q99584 ,J:164563 
+MGI:98217,S100b,"S100 protein, beta polypeptide, neural",10,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN002615853 ,J:265628 
+MGI:98217,S100b,"S100 protein, beta polypeptide, neural",10,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,P04271 ,J:164563 
+MGI:98223,Saa3,serum amyloid A 3,7,,I-kappaB phosphorylation,happens in macrophage,,IDA,,J:145634 
+MGI:1913331,Sharpin,SHANK-associated RH domain interacting protein,15,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN000752489 ,J:265628 
+MGI:1913331,Sharpin,SHANK-associated RH domain interacting protein,15,,positive regulation of canonical NF-kappaB signal transduction,,,IMP,,J:170809 
+MGI:1913331,Sharpin,SHANK-associated RH domain interacting protein,15,,positive regulation of canonical NF-kappaB signal transduction,,,IMP,,J:170810 
+MGI:1913331,Sharpin,SHANK-associated RH domain interacting protein,15,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q9H0F6 ,J:164563 
+MGI:108563,Sirpa,signal-regulatory protein alpha,2,,negative regulation of I-kappaB phosphorylation,"happens in macrophage,regulates a function/process that happens in macrophage,is a part of cellular response to lipopolysaccharide",,IMP,,J:126125 
+MGI:2135607,Sirt1,sirtuin 1,10,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,Q96EB6 ,J:164563 
+MGI:1914797,Slc39a8,"solute carrier family 39 (metal ion transporter), member 8",3,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,Q9C0K1 ,J:164563 
+MGI:2156003,Snip1,Smad nuclear interacting protein 1,4,,canonical NF-kappaB signal transduction,,,IDA,,J:73196 
+MGI:1861380,Sphk2,sphingosine kinase 2,7,,regulation of canonical NF-kappaB signal transduction,,,IMP,,J:120074 
+MGI:107931,Sqstm1,sequestosome 1,11,,regulation of canonical NF-kappaB signal transduction,,,ISO,Q13501 ,J:164563 
+MGI:103063,Stat1,signal transducer and activator of transcription 1,1,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,P42224 ,J:164563 
+MGI:1915902,Tab2,TGF-beta activated kinase 1/MAP3K7 binding protein 2,10,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN002470201 ,J:265628 
+MGI:1915902,Tab2,TGF-beta activated kinase 1/MAP3K7 binding protein 2,10,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q9NYJ8 ,J:164563 
+MGI:1913974,Tab3,TGF-beta activated kinase 1/MAP3K7 binding protein 3,X,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN002470201 ,J:265628 
+MGI:1913974,Tab3,TGF-beta activated kinase 1/MAP3K7 binding protein 3,X,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q8N5C8 ,J:164563 
+MGI:107676,Tank,TRAF family member-associated Nf-kappa B activator,2,,canonical NF-kappaB signal transduction,,,IBA,PTN000391828 ,J:265628 
+MGI:107676,Tank,TRAF family member-associated Nf-kappa B activator,2,,canonical NF-kappaB signal transduction,,,IDA,,J:34830 
+MGI:107676,Tank,TRAF family member-associated Nf-kappa B activator,2,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,Q92844 ,J:164563 
+MGI:1920424,Tbkbp1,TBK1 binding protein 1,11,,canonical NF-kappaB signal transduction,,,IBA,PTN000374256 ,J:265628 
+MGI:1929871,Terf2ip,"telomeric repeat binding factor 2, interacting protein",8,,positive regulation of canonical NF-kappaB signal transduction,,,IDA,,J:163158 
+MGI:98822,Tfrc,transferrin receptor,16,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,P02786 ,J:164563 
+MGI:98731,Tgm2,"transglutaminase 2, C polypeptide",2,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,RGD:621081 ,J:155856 
+MGI:2147032,Ticam1,TIR domain containing adaptor molecule 1,17,,canonical NF-kappaB signal transduction,happens in fibroblast,,IGI,MGI:108005 ,J:84679 
+MGI:2147032,Ticam1,TIR domain containing adaptor molecule 1,17,,canonical NF-kappaB signal transduction,happens in fibroblast,,IMP,MGI:3029019 ,J:84679 
+MGI:2147032,Ticam1,TIR domain containing adaptor molecule 1,17,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN002932982 ,J:265628 
+MGI:2147032,Ticam1,TIR domain containing adaptor molecule 1,17,,positive regulation of canonical NF-kappaB signal transduction,positively regulates canonical NF-kappaB signal transduction,,IGI,MGI:108005 ,J:84679 
+MGI:2147032,Ticam1,TIR domain containing adaptor molecule 1,17,,positive regulation of canonical NF-kappaB signal transduction,positively regulates canonical NF-kappaB signal transduction,,IMP,MGI:3029019 ,J:84679 
+MGI:2147032,Ticam1,TIR domain containing adaptor molecule 1,17,,positive regulation of canonical NF-kappaB signal transduction,,,IMP,,J:173994 
+MGI:2147032,Ticam1,TIR domain containing adaptor molecule 1,17,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q8IUC6 ,J:164563 
+MGI:3040056,Ticam2,TIR domain containing adaptor molecule 2,18,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN002932982 ,J:265628 
+MGI:3040056,Ticam2,TIR domain containing adaptor molecule 2,18,,regulation of canonical NF-kappaB signal transduction,,,ISO,AAP81748 ,J:84379 
+MGI:2182965,Tifa,TRAF-interacting protein with forkhead-associated domain,3,,canonical NF-kappaB signal transduction,,,IBA,PTN001262109 ,J:265628 
+MGI:2182965,Tifa,TRAF-interacting protein with forkhead-associated domain,3,,canonical NF-kappaB signal transduction,,,IDA,,J:74780 
+MGI:2182965,Tifa,TRAF-interacting protein with forkhead-associated domain,3,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN001262109 ,J:265628 
+MGI:2182965,Tifa,TRAF-interacting protein with forkhead-associated domain,3,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q96CG3 ,J:164563 
+MGI:2385852,Tifab,"TRAF-interacting protein with forkhead-associated domain, family member B",13,,canonical NF-kappaB signal transduction,,,IEA,IPR033621 ,J:72247 
+MGI:2152213,Tirap,toll-interleukin 1 receptor (TIR) domain-containing adaptor protein,9,,canonical NF-kappaB signal transduction,,,IBA,PTN002732740 ,J:265628 
+MGI:2152213,Tirap,toll-interleukin 1 receptor (TIR) domain-containing adaptor protein,9,,canonical NF-kappaB signal transduction,,,IMP,,J:72250 
+MGI:2152213,Tirap,toll-interleukin 1 receptor (TIR) domain-containing adaptor protein,9,,canonical NF-kappaB signal transduction,,,ISO,AF406652 ,J:71392 
+MGI:2152213,Tirap,toll-interleukin 1 receptor (TIR) domain-containing adaptor protein,9,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN002732740 ,J:265628 
+MGI:2152213,Tirap,toll-interleukin 1 receptor (TIR) domain-containing adaptor protein,9,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,P58753 ,J:164563 
+MGI:104636,Tle1,transducin-like enhancer of split 1,4,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,Q04724 ,J:164563 
+MGI:1346060,Tlr2,toll-like receptor 2,3,,I-kappaB phosphorylation,,,ISO,O60603 ,J:164563 
+MGI:2156367,Tlr3,toll-like receptor 3,8,,canonical NF-kappaB signal transduction,happens in fibroblast,,IDA,,J:102721 
+MGI:2156367,Tlr3,toll-like receptor 3,8,,canonical NF-kappaB signal transduction,happens in fibroblast,,IGI,MGI:1346877 ,J:102721 
+MGI:2156367,Tlr3,toll-like receptor 3,8,,canonical NF-kappaB signal transduction,happens in fibroblast,,IMP,MGI:3690535 ,J:84679 
+MGI:2156367,Tlr3,toll-like receptor 3,8,,I-kappaB phosphorylation,,,ISO,O15455 ,J:164563 
+MGI:2156367,Tlr3,toll-like receptor 3,8,,positive regulation of canonical NF-kappaB signal transduction,positively regulates canonical NF-kappaB signal transduction,,IDA,,J:102721 
+MGI:2156367,Tlr3,toll-like receptor 3,8,,positive regulation of canonical NF-kappaB signal transduction,,,IDA,,J:152781 
+MGI:2156367,Tlr3,toll-like receptor 3,8,,positive regulation of canonical NF-kappaB signal transduction,positively regulates canonical NF-kappaB signal transduction,,IGI,MGI:1346877 ,J:102721 
+MGI:2156367,Tlr3,toll-like receptor 3,8,,positive regulation of canonical NF-kappaB signal transduction,positively regulates canonical NF-kappaB signal transduction,,IMP,MGI:3690535 ,J:84679 
+MGI:96824,Tlr4,toll-like receptor 4,4,,canonical NF-kappaB signal transduction,happens in fibroblast,,IDA,,J:102721 
+MGI:96824,Tlr4,toll-like receptor 4,4,,canonical NF-kappaB signal transduction,happens in macrophage,,IDA,,J:132126 
+MGI:96824,Tlr4,toll-like receptor 4,4,,I-kappaB phosphorylation,happens in macrophage,,IMP,MGI:1860885 ,J:145634 
+MGI:96824,Tlr4,toll-like receptor 4,4,,I-kappaB phosphorylation,,,ISO,O00206 ,J:164563 
+MGI:96824,Tlr4,toll-like receptor 4,4,,positive regulation of canonical NF-kappaB signal transduction,positively regulates canonical NF-kappaB signal transduction,,IDA,,J:102721 
+MGI:96824,Tlr4,toll-like receptor 4,4,,positive regulation of canonical NF-kappaB signal transduction,positively regulates canonical NF-kappaB signal transduction,,IDA,,J:132126 
+MGI:96824,Tlr4,toll-like receptor 4,4,,positive regulation of canonical NF-kappaB signal transduction,,,IDA,,J:152781 
+MGI:1341296,Tlr6,toll-like receptor 6,5,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q9Y2C9 ,J:73065 
+MGI:2176882,Tlr7,toll-like receptor 7,X,,canonical NF-kappaB signal transduction,,,IBA,PTN002934106 ,J:265628 
+MGI:2176882,Tlr7,toll-like receptor 7,X,,canonical NF-kappaB signal transduction,,,ISO,Q9NYK1 ,J:164563 
+MGI:2176882,Tlr7,toll-like receptor 7,X,,I-kappaB phosphorylation,,,ISO,Q9NYK1 ,J:164563 
+MGI:2176887,Tlr8,toll-like receptor 8,X,,canonical NF-kappaB signal transduction,,,IBA,PTN002934106 ,J:265628 
+MGI:2176887,Tlr8,toll-like receptor 8,X,,canonical NF-kappaB signal transduction,,,ISO,Q9NR97 ,J:164563 
+MGI:1932389,Tlr9,toll-like receptor 9,9,,canonical NF-kappaB signal transduction,,,IBA,PTN002934106 ,J:265628 
+MGI:1932389,Tlr9,toll-like receptor 9,9,,canonical NF-kappaB signal transduction,,,IDA,,J:143338 
+MGI:1932389,Tlr9,toll-like receptor 9,9,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q9NR96 ,J:164563 
+MGI:1922056,Tmem106a,transmembrane protein 106A,11,,positive regulation of canonical NF-kappaB signal transduction,,,IDA,,J:281250 
+MGI:104798,Tnf,tumor necrosis factor,17,,canonical NF-kappaB signal transduction,happens in fibroblast,,IDA,,J:102721 
+MGI:104798,Tnf,tumor necrosis factor,17,,canonical NF-kappaB signal transduction,"happens in CD4-positive, alpha-beta T cell",,IDA,,J:89322 
+MGI:104798,Tnf,tumor necrosis factor,17,,canonical NF-kappaB signal transduction,happens in fibroblast,,IGI,MGI:1346877 ,J:102721 
+MGI:104798,Tnf,tumor necrosis factor,17,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN000158085 ,J:265628 
+MGI:104798,Tnf,tumor necrosis factor,17,,positive regulation of canonical NF-kappaB signal transduction,positively regulates canonical NF-kappaB signal transduction,,IDA,,J:102721 
+MGI:104798,Tnf,tumor necrosis factor,17,,positive regulation of canonical NF-kappaB signal transduction,,,IDA,,J:202809 
+MGI:104798,Tnf,tumor necrosis factor,17,,positive regulation of canonical NF-kappaB signal transduction,positively regulates canonical NF-kappaB signal transduction,,IDA,,J:89322 
+MGI:104798,Tnf,tumor necrosis factor,17,,positive regulation of canonical NF-kappaB signal transduction,positively regulates canonical NF-kappaB signal transduction,,IGI,MGI:1346877 ,J:102721 
+MGI:104798,Tnf,tumor necrosis factor,17,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,RGD:3876 ,J:155856 
+MGI:104798,Tnf,tumor necrosis factor,17,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,P01375 ,J:164563 
+MGI:104798,Tnf,tumor necrosis factor,17,,positive regulation of I-kappaB phosphorylation,,,ISO,P01375 ,J:164563 
+MGI:104798,Tnf,tumor necrosis factor,17,,regulation of canonical NF-kappaB signal transduction,,,ISO,P01375 ,J:164563 
+MGI:1196377,Tnfaip3,"tumor necrosis factor, alpha-induced protein 3",10,,negative regulation of canonical NF-kappaB signal transduction,,,IMP,,J:132994 
+MGI:1196377,Tnfaip3,"tumor necrosis factor, alpha-induced protein 3",10,,negative regulation of canonical NF-kappaB signal transduction,,,IMP,,J:170265 
+MGI:1196377,Tnfaip3,"tumor necrosis factor, alpha-induced protein 3",10,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,P21580 ,J:164563 
+MGI:1352474,Tnfrsf19,"tumor necrosis factor receptor superfamily, member 19",14,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN000950406 ,J:265628 
+MGI:1352474,Tnfrsf19,"tumor necrosis factor receptor superfamily, member 19",14,,positive regulation of canonical NF-kappaB signal transduction,,,IDA,,J:63235 
+MGI:107414,Tnfsf10,"tumor necrosis factor (ligand) superfamily, member 10",3,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN000158085 ,J:265628 
+MGI:1100089,Tnfsf11,"tumor necrosis factor (ligand) superfamily, member 11",14,,canonical NF-kappaB signal transduction,happens in mammary gland epithelium,,IDA,,J:149238 
+MGI:1100089,Tnfsf11,"tumor necrosis factor (ligand) superfamily, member 11",14,,positive regulation of canonical NF-kappaB signal transduction,positively regulates canonical NF-kappaB signal transduction,,IDA,,J:149238 
+MGI:1926194,Tnip1,TNFAIP3 interacting protein 1,11,,negative regulation of canonical NF-kappaB signal transduction,,,IBA,PTN002840398 ,J:265628 
+MGI:1926194,Tnip1,TNFAIP3 interacting protein 1,11,,negative regulation of canonical NF-kappaB signal transduction,,,IDA,,J:183962 
+MGI:1926194,Tnip1,TNFAIP3 interacting protein 1,11,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,Q15025 ,J:164563 
+MGI:2386643,Tnip2,TNFAIP3 interacting protein 2,5,,canonical NF-kappaB signal transduction,,,IDA,,J:76628 
+MGI:2386643,Tnip2,TNFAIP3 interacting protein 2,5,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN002840392 ,J:265628 
+MGI:2386643,Tnip2,TNFAIP3 interacting protein 2,5,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q8NFZ5 ,J:164563 
+MGI:3041165,Tnip3,TNFAIP3 interacting protein 3,6,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,Q96KP6 ,J:164563 
+MGI:109200,Tradd,TNFRSF1A-associated via death domain,8,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q15628 ,J:280922 
+MGI:101836,Traf1,TNF receptor-associated factor 1,2,,regulation of canonical NF-kappaB signal transduction,,,IBA,PTN000805648 ,J:265628 
+MGI:101835,Traf2,TNF receptor-associated factor 2,2,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN002562154 ,J:265628 
+MGI:101835,Traf2,TNF receptor-associated factor 2,2,,positive regulation of canonical NF-kappaB signal transduction,,,IDA,,J:218005 
+MGI:108041,Traf3,TNF receptor-associated factor 3,12,,regulation of canonical NF-kappaB signal transduction,,,IBA,PTN000805648 ,J:265628 
+MGI:2143599,Traf3ip2,TRAF3 interacting protein 2,10,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN002152027 ,J:265628 
+MGI:1202880,Traf4,TNF receptor associated factor 4,11,,regulation of canonical NF-kappaB signal transduction,,,IBA,PTN000805648 ,J:265628 
+MGI:107548,Traf5,TNF receptor-associated factor 5,1,,positive regulation of canonical NF-kappaB signal transduction,,,IEA,IPR027130 IPR037308 ,J:72247 
+MGI:107548,Traf5,TNF receptor-associated factor 5,1,,regulation of canonical NF-kappaB signal transduction,,,IBA,PTN000805648 ,J:265628 
+MGI:108072,Traf6,TNF receptor-associated factor 6,2,,canonical NF-kappaB signal transduction,happens in macrophage,,IGI,MGI:2444070 ,J:187586 
+MGI:108072,Traf6,TNF receptor-associated factor 6,2,,canonical NF-kappaB signal transduction,,,IMP,,J:159274 
+MGI:108072,Traf6,TNF receptor-associated factor 6,2,,canonical NF-kappaB signal transduction,,,ISO,Q9Y4K3 ,J:164563 
+MGI:108072,Traf6,TNF receptor-associated factor 6,2,,positive regulation of canonical NF-kappaB signal transduction,positively regulates canonical NF-kappaB signal transduction,,IGI,MGI:2444070 ,J:187586 
+MGI:108072,Traf6,TNF receptor-associated factor 6,2,,positive regulation of canonical NF-kappaB signal transduction,happens in fibroblast,,IMP,,J:198907 
+MGI:108072,Traf6,TNF receptor-associated factor 6,2,,positive regulation of canonical NF-kappaB signal transduction,,,IMP,,J:92728 
+MGI:108072,Traf6,TNF receptor-associated factor 6,2,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q9Y423 ,J:73065 
+MGI:108072,Traf6,TNF receptor-associated factor 6,2,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q9Y4K3 ,J:164563 
+MGI:108072,Traf6,TNF receptor-associated factor 6,2,,regulation of canonical NF-kappaB signal transduction,,,IBA,PTN000805648 ,J:265628 
+MGI:1913150,Trem2,triggering receptor expressed on myeloid cells 2,17,,negative regulation of canonical NF-kappaB signal transduction,"is a part of cellular response to lipopolysaccharide,happens in microglial cell",,IMP,,J:304584 
+MGI:3646853,Trim5,tripartite motif-containing 5,7,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN008394630 ,J:265628 
+MGI:3646853,Trim5,tripartite motif-containing 5,7,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q9C035 ,J:164563 
+MGI:2137352,Trim6,tripartite motif-containing 6,7,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN008394630 ,J:265628 
+MGI:1933302,Trim8,tripartite motif-containing 8,19,,canonical NF-kappaB signal transduction,,,ISO,Q9BZR9 ,J:164563 
+MGI:1933302,Trim8,tripartite motif-containing 8,19,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q9BZR9 ,J:164563 
+MGI:1923931,Trim12a,tripartite motif-containing 12A,7,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN008394630 ,J:265628 
+MGI:1923931,Trim12a,tripartite motif-containing 12A,7,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q9C035 ,J:164563 
+MGI:4821183,Trim12c,tripartite motif-containing 12C,7,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN008394630 ,J:265628 
+MGI:4821183,Trim12c,tripartite motif-containing 12C,7,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q9C035 ,J:164563 
+MGI:1913847,Trim13,tripartite motif-containing 13,14,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN002788960 ,J:265628 
+MGI:1913847,Trim13,tripartite motif-containing 13,14,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,O60858 ,J:164563 
+MGI:106657,Trim21,tripartite motif-containing 21,7,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN008394630 ,J:265628 
+MGI:102749,Trim25,tripartite motif-containing 25,11,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q14258 ,J:164563 
+MGI:98178,Trim30a,tripartite motif-containing 30A,7,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN008394630 ,J:265628 
+MGI:98178,Trim30a,tripartite motif-containing 30A,7,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q9C035 ,J:164563 
+MGI:4821256,Trim30b,tripartite motif-containing 30B,7,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN008394630 ,J:265628 
+MGI:4821256,Trim30b,tripartite motif-containing 30B,7,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q9C035 ,J:164563 
+MGI:4821257,Trim30c,tripartite motif-containing 30C,7,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN008394630 ,J:265628 
+MGI:4821257,Trim30c,tripartite motif-containing 30C,7,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q9C035 ,J:164563 
+MGI:3035181,Trim30d,tripartite motif-containing 30D,7,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN008394630 ,J:265628 
+MGI:3035181,Trim30d,tripartite motif-containing 30D,7,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q9C035 ,J:164563 
+MGI:1917057,Trim32,tripartite motif-containing 32,4,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q13049 ,J:164563 
+MGI:2137359,Trim34a,tripartite motif-containing 34A,7,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN008394630 ,J:265628 
+MGI:4821264,Trim34b,tripartite motif-containing 34B,7,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN008394630 ,J:265628 
+MGI:2684869,Trim38,tripartite motif-containing 38,13,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN008394630 ,J:265628 
+MGI:2684869,Trim38,tripartite motif-containing 38,13,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,O00635 ,J:164563 
+MGI:1890659,Trim39,tripartite motif-containing 39,17,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,Q9HCM9 ,J:164563 
+MGI:3045276,Trim52,tripartite motif-containing 52,14,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q96A61 ,J:164563 
+MGI:2684862,Trim58,tripartite motif-containing 58,11,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN008394630 ,J:265628 
+MGI:1914199,Trim59,tripartite motif-containing 59,3,,negative regulation of canonical NF-kappaB signal transduction,,,IBA,PTN000647161 ,J:265628 
+MGI:1914199,Trim59,tripartite motif-containing 59,3,,negative regulation of canonical NF-kappaB signal transduction,,,IDA,,J:184896 
+MGI:1914199,Trim59,tripartite motif-containing 59,3,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,Q8IWR1 ,J:73065 
+MGI:1914775,Trim62,tripartite motif-containing 62,4,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN002788576 ,J:265628 
+MGI:1914775,Trim62,tripartite motif-containing 62,4,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q9BVG3 ,J:164563 
+MGI:2142077,Trim68,tripartite motif-containing 68,7,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN008394630 ,J:265628 
+MGI:1344410,Ubd,ubiquitin D,17,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN000071593 ,J:265628 
+MGI:1344410,Ubd,ubiquitin D,17,,positive regulation of canonical NF-kappaB signal transduction,,,IMP,,J:163435 
+MGI:1344410,Ubd,ubiquitin D,17,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,O15205 ,J:164563 
+MGI:107365,Ube2i,ubiquitin-conjugating enzyme E2I,17,,positive regulation of canonical NF-kappaB signal transduction,,,IDA,,J:41993 
+MGI:1934835,Ube2n,ubiquitin-conjugating enzyme E2N,10,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,P61088 ,J:164563 
+MGI:1923839,Unc5cl,unc-5 family C-terminal like,17,,positive regulation of canonical NF-kappaB signal transduction,,,IBA,PTN000464368 ,J:265628 
+MGI:1923839,Unc5cl,unc-5 family C-terminal like,17,,positive regulation of canonical NF-kappaB signal transduction,,,IDA,,J:203182 
+MGI:1923839,Unc5cl,unc-5 family C-terminal like,17,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q8IV45 ,J:73065 
+MGI:894652,Usp10,ubiquitin specific peptidase 10,8,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,Q14694 ,J:164563 
+MGI:1921520,Usp20,ubiquitin specific peptidase 20,2,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,Q9Y2K6 ,J:164563 
+MGI:1353655,Usp25,ubiquitin specific peptidase 25,16,,I-kappaB phosphorylation,,,IMP,MGI:4332130 ,J:188557 
+MGI:1915086,Wdr83,WD repeat domain containing 83,8,,regulation of canonical NF-kappaB signal transduction,,,IMP,MGI:4367006 ,J:271862 
+MGI:98958,Wnt5a,"wingless-type MMTV integration site family, member 5A",14,,regulation of canonical NF-kappaB signal transduction,regulates a function/process that happens in cerebral cortex neuron,,IMP,,J:176368 
+MGI:2385891,Zc3h12a,zinc finger CCCH type containing 12A,4,,negative regulation of canonical NF-kappaB signal transduction,,,IDA,,J:174994 
+MGI:2385891,Zc3h12a,zinc finger CCCH type containing 12A,4,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,Q5D1E8 ,J:164563 
+MGI:1926031,Zc3hav1,"zinc finger CCCH type, antiviral 1",6,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,NP_064504 ,J:167454 
+MGI:1926031,Zc3hav1,"zinc finger CCCH type, antiviral 1",6,,positive regulation of canonical NF-kappaB signal transduction,,,ISO,Q7Z2W4 ,J:164563 
+MGI:1929510,Zfand6,"zinc finger, AN1-type domain 6",7,,regulation of canonical NF-kappaB signal transduction,,,ISO,Q6FIF0 ,J:164563 
+MGI:1913755,Zmynd11,"zinc finger, MYND domain containing 11",13,,negative regulation of canonical NF-kappaB signal transduction,,,ISO,Q15326 ,J:164563 
