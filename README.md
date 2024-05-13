@@ -10,5 +10,7 @@
 5. Preprocessed and analysed Healthy/IPF datasets: <br>(original raw data of Adams et al. (2020) downloaded from GEO: GSE136831).
 6. Preprocessed and analysed Pan fetal reference datasets: <br> (original raw data of Suo et al. (2022) downloaded from https://developmental.cellatlas.io/fetal-immune).
 7. Preprocessed and analysed Artificial thymic organoid datasets: <br> (raw sequencing data available from ArrayExpress: E-MTAB-12720).
+8. Additional data files: Human transcription factor list (Lambert et al. 2018) , cell-cycle gene list (Regev Lab), and relevant Gene Ontology pathway gene sets. 
 
 Large data objects are available at: https://zenodo.org/records/11182400
+
