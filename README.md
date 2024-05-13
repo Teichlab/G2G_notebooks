@@ -14,3 +14,4 @@
 
 Large data objects are available at: https://zenodo.org/records/11182400
 
+All analysis notebooks use Genes2Genes v0.1.0 (https://github.com/Teichlab/Genes2Genes/releases/tag/v0.1.0)
