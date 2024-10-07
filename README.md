@@ -1,5 +1,5 @@
 ### Analysis notebooks and data used in the manuscript: <br> ***"Gene-level alignment of single cell trajectories"*** <br>
-[https://www.biorxiv.org/content/10.1101/2023.03.08.531713v3](https://doi.org/10.1101/2023.03.08.531713 ) (bioRxiv Preprint)
+https://doi.org/10.1038/s41592-024-02378-4
 
 **Available datasets:**
 
